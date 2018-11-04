@@ -7,7 +7,7 @@
         "Glad you're here! Please be pleasant to your fellow rookies",
 	"Add us to your favorites, help seed, stay tuned, and stay BIG! =)"
     ],
-    "Mode": 1,
-    "URL": "http://www.unknownworlds.com/ns2/",
+    "Mode": 2,
+    "URL": "storage.googleapis.com/ns2.krizenesky.com/bgt_motd.html",
     "__Version": "1.2"
 }
