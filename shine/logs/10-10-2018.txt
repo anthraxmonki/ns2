@@ -1,0 +1,486 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[01:49:40]Player Sir McSalot[9002712] joined team ready room.
+[01:54:25]Client Jack Kason[18180849 - STEAM_0:1:9090424]<35.136.243.45> connected.
+[01:54:33]Player Jack Kason[18180849] joined team marines.
+[01:54:33]Player NSPlayer[0] joined team aliens.
+[01:54:33]Player NSPlayer[0] joined team aliens.
+[01:54:33]Player [BOT] Tex[0] joined team marines.
+[01:54:33]Player [BOT] Squeal Like a [0] joined team marines.
+[01:54:33]Player [BOT] Mazza[0] joined team aliens.
+[01:54:33]Player [BOT] OwNzOr[0] joined team aliens.
+[01:54:33]Player [BOT] Obraxis[0] joined team marines.
+[01:54:33]Player [BOT] Ironhorse[0] joined team marines.
+[01:54:33]Player [BOT] sewlek[0] joined team aliens.
+[01:54:33]Player [BOT] Ashton M[0] joined team aliens.
+[01:54:33]Player [BOT] vartija[0] joined team marines.
+[01:54:56]Jack Kason[18180849][Marines] became the commander of the marine team.
+[01:54:59][BOT] Squeal Like a [0][Marines] killed [BOT] OwNzOr[0][Aliens] with HeavyMachineGun. Attacker location: (46.429, -4.765, 78.414). Victim location: (40.164, -4.633, 87.703).
+[01:55:04][BOT] Obraxis[0][Marines] killed [BOT] Lachdanan[0][Aliens] with Shotgun. Attacker location: (39.573, -3.264, 85.805). Victim location: (35.945, -4.250, 88.719).
+[01:55:08][BOT] Squeal Like a [0][Marines] killed [BOT] Ashton M[0][Aliens] with HeavyMachineGun. Attacker location: (43.422, -4.765, 89.635). Victim location: (26.906, -4.766, 86.125).
+[01:55:17]Mine killed Mine with Mine. Attacker location: (-2.796, -6.498, 74.455). Victim location: (-2.796, -6.498, 74.455).
+[01:55:17]Mine killed [BOT] Mazza[0][Aliens] with Mine. Attacker location: (-2.796, -6.498, 74.455). Victim location: (-1.250, -6.578, 74.539).
+[01:55:18]Mine killed Mine with Mine. Attacker location: (-3.156, -6.498, 73.055). Victim location: (-3.156, -6.498, 73.055).
+[01:55:20][BOT] vartija[0][Marines] killed [BOT] sewlek[0][Aliens] with HeavyMachineGun. Attacker location: (38.815, -4.632, 87.761). Victim location: (21.586, -4.766, 86.172).
+[01:55:25]Jack Kason[18180849][Marines] stopped commanding the marine team.
+[01:55:29][BOT] Hanschuh[0][Aliens] killed [BOT] vartija[0][Marines] with Gore. Attacker location: (21.074, -4.866, 80.829). Victim location: (21.484, -4.836, 82.188).
+[01:55:31]Client Sir McSalot[9002712][Ready Room] disconnected.
+[01:55:33][BOT] Hanschuh[0][Aliens] killed [BOT] Squeal Like a [0][Marines] with Gore. Attacker location: (47.255, -4.764, 83.771). Victim location: (48.617, -4.766, 83.281).
+[01:55:47]Round started. Build: 324. Map: ns2_refinery.
+[01:55:54]Jack Kason[18180849][Marines] became the commander of the marine team.
+[01:56:02]Jack Kason[18180849][Marines] began construction of Extractor[1655].
+[01:56:04][BOT] vartija[0][Marines] killed [BOT] OwNzOr[0][Aliens] with Rifle. Attacker location: (-22.816, -6.497, 44.111). Victim location: (-11.648, -5.891, 43.063).
+[01:56:05][BOT] Obraxis[0][Marines] killed [BOT] Ashton M[0][Aliens] with Rifle. Attacker location: (-17.140, -6.492, 46.896). Victim location: (-11.875, -6.461, 41.047).
+[01:56:07][BOT] Obraxis[0][Marines] killed [BOT] Lachdanan[0][Aliens] with Rifle. Attacker location: (-25.532, -6.492, 47.912). Victim location: (-16.227, -4.961, 41.969).
+[01:56:10]Jack Kason[18180849][Marines] began construction of Extractor[3842].
+[01:56:10][BOT] Obraxis[0][Marines] killed [BOT] Mazza[0][Aliens] with Rifle. Attacker location: (-24.158, -6.492, 44.600). Victim location: (-22.055, -4.648, 44.211).
+[01:56:19]Jack Kason[18180849][Marines] began construction of Extractor[919].
+[01:56:28][BOT] vartija[0][Marines] killed [BOT] Ashton M[0][Aliens] with Rifle. Attacker location: (21.564, -6.492, 50.810). Victim location: (22.406, -4.844, 38.367).
+[01:56:30]Jack Kason[18180849][Marines] began construction of Extractor[1936].
+[01:56:34][BOT] Mazza[0][Aliens] killed [BOT] Obraxis[0][Marines] with BiteLeap. Attacker location: (20.129, -6.492, 41.977). Victim location: (17.930, -6.492, 40.969).
+[01:56:34][BOT] vartija[0][Marines] killed [BOT] sewlek[0][Aliens] with Rifle. Attacker location: (14.590, -6.506, 46.873). Victim location: (15.469, -4.617, 47.023).
+[01:56:35][BOT] Lachdanan[0][Aliens] killed [BOT] Squeal Like a [0][Marines] with BiteLeap. Attacker location: (15.571, -4.847, 46.822). Victim location: (15.688, -6.500, 45.766).
+[01:56:35][BOT] Mazza[0][Aliens] killed [BOT] Ironhorse[0][Marines] with BiteLeap. Attacker location: (16.384, -5.628, 44.970). Victim location: (15.336, -6.266, 43.898).
+[01:56:36]Jack Kason[18180849][Marines] began construction of Extractor[3016].
+[01:56:36][BOT] vartija[0][Marines] killed [BOT] Lachdanan[0][Aliens] with Rifle. Attacker location: (7.589, -6.475, 46.824). Victim location: (8.570, -5.055, 46.477).
+[01:56:37][BOT] Mazza[0][Aliens] killed [BOT] vartija[0][Marines] with BiteLeap. Attacker location: (9.615, -5.837, 46.704). Victim location: (8.070, -6.477, 48.039).
+[01:56:43]Jack Kason[18180849][Marines] began construction of Extractor[1714].
+[01:56:49][BOT] Mazza[0][Aliens] killed PowerPoint with BiteLeap. Attacker location: (19.796, -5.055, 44.934). Victim location: (20.015, -5.182, 46.025).
+[01:57:04][BOT] Obraxis[0][Marines] killed [BOT] sewlek[0][Aliens] with Rifle. Attacker location: (-20.205, -6.492, 45.244). Victim location: (-17.352, -5.617, 42.969).
+[01:57:10][BOT] Squeal Like a [0][Marines] killed [BOT] Mazza[0][Aliens] with Rifle. Attacker location: (-19.579, -6.492, 45.607). Victim location: (-10.219, -2.805, 42.234).
+[01:57:12][BOT] Obraxis[0][Marines] killed [BOT] Ashton M[0][Aliens] with Rifle. Attacker location: (-20.612, -6.492, 49.843). Victim location: (-15.555, -6.477, 45.188).
+[01:57:17][BOT] Obraxis[0][Marines] killed [BOT] OwNzOr[0][Aliens] with Rifle. Attacker location: (-30.690, -4.961, 46.842). Victim location: (-31.180, -4.211, 44.477).
+[01:57:21][BOT] Squeal Like a [0][Marines] killed [BOT] Lachdanan[0][Aliens] with Rifle. Attacker location: (-27.734, -6.492, 47.922). Victim location: (-26.203, -5.117, 47.953).
+[01:57:23][BOT] Squeal Like a [0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-26.539, -6.508, 47.983). Victim location: (-26.883, -5.148, 47.078).
+[01:57:35][BOT] vartija[0][Marines] killed [BOT] sewlek[0][Aliens] with Rifle. Attacker location: (-16.454, -6.317, 47.721). Victim location: (-7.766, -3.477, 44.617).
+[01:57:37][BOT] Obraxis[0][Marines] killed [BOT] Mazza[0][Aliens] with Rifle. Attacker location: (-9.847, -6.475, 45.516). Victim location: (-2.141, -6.477, 45.906).
+[01:57:40]Jack Kason[18180849][Marines] began construction of Armory[2736].
+[01:57:50][BOT] vartija[0][Marines] killed [BOT] Ashton M[0][Aliens] with Rifle. Attacker location: (-8.648, -6.475, 47.565). Victim location: (1.094, -5.234, 48.219).
+[01:57:51]Jack Kason[18180849][Marines] began construction of ArmsLab[2880].
+[01:57:58]Jack Kason[18180849][Marines] began construction of InfantryPortal[3404].
+[01:57:59][BOT] OwNzOr[0][Aliens] killed [BOT] vartija[0][Marines] with BiteLeap. Attacker location: (23.728, -6.032, 51.352). Victim location: (25.430, -6.492, 51.688).
+[01:58:01][BOT] Obraxis[0][Marines] killed [BOT] OwNzOr[0][Aliens] with Rifle. Attacker location: (12.889, -7.814, 48.568). Victim location: (14.227, -6.008, 45.578).
+[01:58:13]Jack Kason[18180849][Marines] began construction of Armory[2964].
+[01:58:13][BOT] Lachdanan[0][Aliens] killed [BOT] Obraxis[0][Marines] with BiteLeap. Attacker location: (23.671, -6.391, 48.676). Victim location: (22.586, -6.375, 46.617).
+[01:58:14][BOT] Squeal Like a [0][Marines] killed [BOT] Lachdanan[0][Aliens] with Rifle. Attacker location: (22.799, -6.474, 63.117). Victim location: (22.367, -6.047, 53.047).
+[01:58:23]Jack Kason[18180849][Marines] began construction of RoboticsFactory[3958].
+[01:58:57][BOT] Mazza[0][Aliens] killed Armory with BiteLeap. Attacker location: (-7.938, -5.289, 46.090). Victim location: (-9.002, -6.475, 45.153).
+[01:59:05][BOT] Tex[0][Marines] killed [BOT] Ashton M[0][Aliens] with Rifle. Attacker location: (25.071, -6.391, 48.519). Victim location: (24.984, -4.164, 48.297).
+[01:59:14][BOT] Mazza[0][Aliens] killed [BOT] Squeal Like a [0][Marines] with BiteLeap. Attacker location: (6.031, -5.060, 46.737). Victim location: (5.320, -6.422, 48.164).
+[01:59:15][BOT] Tex[0][Marines] killed [BOT] sewlek[0][Aliens] with Rifle. Attacker location: (18.337, -6.492, 48.782). Victim location: (14.016, -5.078, 43.508).
+[01:59:18][BOT] OwNzOr[0][Aliens] killed [BOT] Tex[0][Marines] with BiteLeap. Attacker location: (19.352, -5.357, 49.433). Victim location: (19.891, -6.492, 51.172).
+[01:59:27][BOT] OwNzOr[0][Aliens] killed Extractor with BiteLeap. Attacker location: (-9.975, -6.449, 42.674). Victim location: (-11.379, -6.452, 42.367).
+[01:59:44]Jack Kason[18180849][Marines] began construction of Observatory[1164].
+[01:59:44][BOT] vartija[0][Marines] killed [BOT] Lachdanan[0][Aliens] with Rifle. Attacker location: (11.807, -6.475, 46.977). Victim location: (15.656, -5.633, 46.781).
+[01:59:52]Jack Kason[18180849][Marines] began construction of SentryBattery[3373].
+[01:59:53][BOT] Squeal Like a [0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (16.976, -6.492, 48.816). Victim location: (20.109, -6.242, 51.133).
+[02:00:02]Jack Kason[18180849][Marines] began construction of Sentry[110].
+[02:00:04][BOT] Squeal Like a [0][Marines] killed [BOT] OwNzOr[0][Aliens] with Rifle. Attacker location: (31.997, -4.765, 86.374). Victim location: (47.984, -4.766, 86.633).
+[02:00:05]Jack Kason[18180849][Marines] began construction of Sentry[2073].
+[02:00:08]Jack Kason[18180849][Marines] began construction of Sentry[2439].
+[02:00:13][BOT] Tex[0][Marines] killed [BOT] sewlek[0][Aliens] with Rifle. Attacker location: (3.379, -6.475, 43.981). Victim location: (11.953, -6.477, 43.797).
+[02:00:27][BOT] vartija[0][Marines] killed [BOT] Ashton M[0][Aliens] with Rifle. Attacker location: (-29.501, -4.867, 113.476). Victim location: (-28.906, -3.453, 112.594).
+[02:00:29][BOT] Mazza[0][Aliens] killed [BOT] Ironhorse[0][Marines] with BiteLeap. Attacker location: (-71.586, -3.541, 67.627). Victim location: (-71.336, -4.938, 66.375).
+[02:00:36]Bot removed.
+[02:00:36]Bot removed.
+[02:00:36]Bot removed.
+[02:00:36]Bot removed.
+[02:00:36]Bot removed.
+[02:00:36]Bot removed.
+[02:00:36]Bot removed.
+[02:00:36]Bot removed.
+[02:00:36]Bot removed.
+[02:00:36]Bot removed.
+[02:00:36]Bot removed.
+[02:00:36]Client Jack Kason[18180849][Ready Room] disconnected.
+[02:00:37]ArmsLab[2880] was recycled.
+[02:00:37]Rounded ended in a draw. Build: 324. Map: ns2_refinery. Round length: 4 minutes and 50 seconds. Marines start: Flow Control. Aliens start: Containment.
+[02:00:37]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[02:00:41]Shine started up successfully.
+[02:00:43][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[02:48:44]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[02:48:47]Shine started up successfully.
+[02:48:49][Badges] [Info] Setup badges successfully.
+
+[03:04:35]Shine started up successfully.
+[03:04:37][Badges] [Info] Setup badges successfully.
+[03:04:54]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[03:06:10]Client Sir McSalot[9002712][Ready Room] disconnected.
+
+
+
+
+
+
+
+
+[03:52:38]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[03:52:40]Shine started up successfully.
+[03:52:43][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[04:40:44]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[04:40:46]Shine started up successfully.
+[04:40:49][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[05:28:49]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[05:28:52]Shine started up successfully.
+[05:28:55][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[06:16:55]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[06:16:58]Shine started up successfully.
+[06:17:01][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[07:05:02]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[07:05:05]Shine started up successfully.
+[07:05:07][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[07:53:07]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[07:53:10]Shine started up successfully.
+[07:53:13][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[08:41:13]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[08:41:16]Shine started up successfully.
+[08:41:19][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[09:29:19]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[09:29:22]Shine started up successfully.
+[09:29:24][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[10:17:25]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[10:17:28]Shine started up successfully.
+[10:17:32][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[11:05:32]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[11:05:35]Shine started up successfully.
+[11:05:38][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[11:53:38]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[11:53:41]Shine started up successfully.
+[11:53:43][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[12:41:43]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[12:41:46]Shine started up successfully.
+[12:41:49][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[13:29:49]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[13:29:51]Shine started up successfully.
+[13:29:54][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[14:17:54]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[14:17:57]Shine started up successfully.
+[14:17:59][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[15:05:59]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[15:06:03]Shine started up successfully.
+[15:06:06][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[15:54:06]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[15:54:10]Shine started up successfully.
+[15:54:12][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[16:42:12]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[16:42:15]Shine started up successfully.
+[16:42:18][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+[17:19:48]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[17:19:51]Player Sir McSalot[9002712] joined team spectators.
+
+
+
+
+
+
+
+
+
+
+
+
+[18:25:27]Client athenea_atope07[449561480 - STEAM_0:0:224780740]<80.31.237.63> connected.
+[18:25:34]Player athenea_atope07[449561480] joined team aliens.
+[18:25:34]Player NSPlayer[0] joined team marines.
+[18:25:34]Player NSPlayer[0] joined team marines.
+[18:25:34]Player NSPlayer[0] joined team aliens.
+[18:25:34]Player NSPlayer[0] joined team aliens.
+[18:25:34]Player [BOT] CoolCookieCook[0] joined team marines.
+[18:25:34]Player [BOT] WDI[0] joined team marines.
+[18:25:35]Player [BOT] remi.D[0] joined team aliens.
+[18:25:35]Player [BOT] Salads[0] joined team aliens.
+[18:25:35]Player [BOT] Numerik[0] joined team marines.
+[18:25:35]Player [BOT] devildog[0] joined team marines.
+[18:25:35]Player [BOT] Sweets[0] joined team aliens.
+[18:25:40]Chat from athenea_atope07[449561480][Aliens]: hi?
+[18:25:59]Chat from athenea_atope07[449561480][Aliens]: AFK?
+[18:26:03][BOT] CoolCookieCook[0][Marines] killed [BOT] Salads[0][Aliens] with Shotgun. Attacker location: (37.395, -6.696, -42.300). Victim location: (38.727, -5.773, -35.461).
+[18:26:06][BOT] sewlek[0][Marines] killed [BOT] Sweets[0][Aliens] with HeavyMachineGun. Attacker location: (39.695, -6.334, -47.723). Victim location: (38.469, -6.695, -37.180).
+[18:26:13][BOT] Relic25[0][Aliens] killed [BOT] WDI[0][Marines] with Gore. Attacker location: (36.473, -6.086, 45.579). Victim location: (36.797, -5.602, 44.219).
+[18:26:20][BOT] Numerik[0][Marines] killed [BOT] remi.D[0][Aliens] with Shotgun. Attacker location: (-10.934, -0.752, -12.336). Victim location: (-16.586, -0.750, -12.508).
+[18:26:36]athenea_atope07[449561480][Aliens] killed [BOT] sewlek[0][Marines] with Gore. Attacker location: (56.961, -10.861, 20.060). Victim location: (56.390, -10.758, 21.476).
+[18:26:38]athenea_atope07[449561480][Aliens] killed [BOT] Samusdroid[0][Marines] with Gore. Attacker location: (52.758, -10.759, 26.555). Victim location: (51.378, -10.859, 26.841).
+[18:26:44][BOT] Salads[0][Aliens] killed [BOT] WDI[0][Marines] with LerkBite. Attacker location: (-1.833, -1.770, 42.481). Victim location: (-5.820, -3.086, 42.617).
+[18:26:45][BOT] Numerik[0][Marines] killed [BOT] Salads[0][Aliens] with Shotgun. Attacker location: (-6.846, -3.038, 42.527). Victim location: (-1.906, -3.055, 42.266).
+[18:26:45][BOT] CoolCookieCook[0][Marines] killed athenea_atope07[449561480][Aliens] with Shotgun. Attacker location: (46.262, -10.965, 20.154). Victim location: (47.836, -10.859, 18.648).
+[18:26:53][BOT] CoolCookieCook[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (51.522, -7.813, 3.859). Victim location: (50.539, -7.711, 2.156).
+[18:26:54][BOT] Squeal Like a [0][Aliens] killed [BOT] Numerik[0][Marines] with LerkBite. Attacker location: (6.318, -6.435, 10.258). Victim location: (9.586, -6.492, 17.906).
+[18:26:54][BOT] WDI[0][Marines] killed [BOT] Sweets[0][Aliens] with HeavyMachineGun. Attacker location: (-13.329, -0.755, -7.932). Victim location: (-19.914, -1.594, -20.953).
+[18:27:00][BOT] CoolCookieCook[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Shotgun. Attacker location: (46.332, -7.712, 1.779). Victim location: (45.695, -5.250, 3.000).
+[18:27:16][BOT] Sweets[0][Aliens] killed [BOT] CoolCookieCook[0][Marines] with Gore. Attacker location: (69.302, -7.712, 4.167). Victim location: (67.523, -7.711, 3.797).
+[18:27:27][BOT] sewlek[0][Marines] killed [BOT] Salads[0][Aliens] with Shotgun. Attacker location: (47.959, -7.712, 5.461). Victim location: (49.539, -7.773, 0.547).
+[18:27:30]athenea_atope07[449561480][Aliens] killed [BOT] sewlek[0][Marines] with LerkBite. Attacker location: (56.081, -7.693, 10.792). Victim location: (46.648, -7.711, 2.285).
+[18:27:37][BOT] WDI[0][Marines] killed athenea_atope07[449561480][Aliens] with HeavyMachineGun. Attacker location: (32.214, -5.273, -5.008). Victim location: (37.867, -2.250, -9.852).
+[18:27:57][PingTracker] Kicked client athenea_atope07[449561480]. Average ping: 258.92. Average jitter: 4.33.
+[18:27:57]Bot removed.
+[18:27:57]Bot removed.
+[18:27:57]Bot removed.
+[18:27:57]Bot removed.
+[18:27:57]Bot removed.
+[18:27:57]Bot removed.
+[18:27:57]Bot removed.
+[18:27:57]Bot removed.
+[18:27:57]Bot removed.
+[18:27:57]Bot removed.
+[18:27:57]Bot removed.
+[18:27:57]Client athenea_atope07[449561480][Ready Room] disconnected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[20:35:00]Client jfgsff[904733824 - STEAM_0:0:452366912]<174.37.130.131> connected.
+[20:35:40]Client jfgsff[904733824][Ready Room] disconnected.
+
+
+[20:49:00]Client B0b[4596815 - STEAM_0:1:2298407]<71.115.203.90> connected.
+[20:50:04]Client B0b[4596815][Ready Room] disconnected.
+
+
+
+
+
+
+
+[21:32:05]Client jfgsff[904733824 - STEAM_0:0:452366912]<174.37.130.131> connected.
+[21:32:25]Player jfgsff[904733824] joined team marines.
+[21:32:25]Player NSPlayer[0] joined team aliens.
+[21:32:25]Player NSPlayer[0] joined team aliens.
+[21:32:25]Player [BOT] Hanschuh[0] joined team marines.
+[21:32:25]Player [BOT] MonsieurEvil[0] joined team marines.
+[21:32:25]Player [BOT] WasabiOne[0] joined team aliens.
+[21:32:25]Player [BOT] Kouji_San[0] joined team aliens.
+[21:32:25]Player [BOT] Ooghi[0] joined team marines.
+[21:32:25]Player [BOT] Insane[0] joined team marines.
+[21:32:25]Player [BOT] Strayan[0] joined team aliens.
+[21:32:25]Player [BOT] Zaloko[0] joined team aliens.
+[21:32:25]Player [BOT] moultano[0] joined team marines.
+[21:32:52][BOT] Hanschuh[0][Marines] killed [BOT] Kouji_San[0][Aliens] with Shotgun. Attacker location: (9.085, -6.543, 7.026). Victim location: (9.469, -6.633, 7.938).
+[21:32:54][BOT] McGlaspie[0][Aliens] killed [BOT] moultano[0][Marines] with Gore. Attacker location: (27.429, -5.813, -37.131). Victim location: (27.961, -5.781, -38.414).
+[21:33:09]Bot removed.
+[21:33:09]Bot removed.
+[21:33:09]Bot removed.
+[21:33:09]Bot removed.
+[21:33:09]Bot removed.
+[21:33:09]Bot removed.
+[21:33:09]Bot removed.
+[21:33:09]Bot removed.
+[21:33:09]Bot removed.
+[21:33:09]Bot removed.
+[21:33:09]Bot removed.
+[21:33:09]Client jfgsff[904733824][Ready Room] disconnected.
+
+
+
+
+
+
+
+
+
+[22:27:31]Client sand cat[20100416 - STEAM_0:0:10050208]<70.187.144.149> connected.
+[22:27:36]Chat from sand cat[20100416][Ready Room]: NEED MILK
+[22:27:54]Player sand cat[20100416] joined team spectators.
+[22:28:17]Client sand cat[20100416][Ready Room] disconnected.
+
+
+[22:47:42]Client viperkingman[838878687 - STEAM_0:1:419439343]<45.36.207.140> connected.
+[22:48:17]Client viperkingman[838878687][Ready Room] disconnected.
+
+
+
+
+
+
+
+
+
+
+
+
+[23:49:10]Client magman08[338401955 - STEAM_0:1:169200977]<73.14.17.112> connected.
+[23:49:38]Player magman08[338401955] joined team spectators.
+[23:49:48]Player magman08[338401955] joined team ready room.
+[23:49:50]Client magman08[338401955][Ready Room] disconnected.
+

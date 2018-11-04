@@ -1,0 +1,19 @@
+[04:53:41]Shine started up successfully.
+[04:53:43][Badges] [Info] Setup badges successfully.
+[04:53:58]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.145.96> connected.
+
+[05:05:32]Client Sir McSalot[9002712][Ready Room] disconnected.
+
+
+
+
+
+
+[05:41:43]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[05:41:46]Shine started up successfully.
+[05:41:49][Badges] [Info] Setup badges successfully.
+
+
+
+
+[06:07:16]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.145.96> connected.

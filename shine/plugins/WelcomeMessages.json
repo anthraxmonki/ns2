@@ -1,0 +1,12 @@
+{
+    "MessageDelay": 5,
+    "ShowForBots": false,
+    "ShowGeneric": false,
+    "Users": {
+        "90000001": {
+            "Leave": "Bob is off to fight more important battles.",
+            "Welcome": "Bob has joined the party!"
+        }
+    },
+    "__Version": "1.3"
+}

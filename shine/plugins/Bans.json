@@ -1,0 +1,25 @@
+{
+    "BanSharerOnSharedBan": false,
+    "Banned": {
+        "887878488": {
+            "BannedBy": "<unknown>",
+            "BannerID": 0,
+            "Duration": 0,
+            "Name": "James",
+            "Reason": "bet your skill doesn't carry over mcsalot; bitch, you are a first time commander's 1st win. You are banned for poor sportsmanship. -ADMIN/mcsalot",
+            "UnbanTime": 0
+        }
+    },
+    "BansSubmitArguments": [],
+    "BansSubmitURL": "",
+    "BansURL": "",
+    "CheckFamilySharing": false,
+    "DefaultBanTime": 60,
+    "GetBansFromWeb": false,
+    "GetBansWithPOST": false,
+    "LogLevel": "Info",
+    "MaxSubmitRetries": 3,
+    "SubmitTimeout": 5,
+    "VanillaConfigUpToDate": true,
+    "__Version": "1.5"
+}

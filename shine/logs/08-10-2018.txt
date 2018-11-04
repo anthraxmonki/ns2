@@ -1,0 +1,411 @@
+
+
+[00:08:49]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[00:08:52]Shine started up successfully.
+[00:08:55][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[00:56:56]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[00:56:59]Shine started up successfully.
+[00:57:02][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[01:45:02]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[01:45:05]Shine started up successfully.
+[01:45:07][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[02:33:08]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[02:33:10]Shine started up successfully.
+[02:33:13][Badges] [Info] Setup badges successfully.
+
+
+
+
+[02:59:21]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[02:59:27]Player Sir McSalot[9002712] joined team aliens.
+[02:59:27]Player NSPlayer[0] joined team marines.
+[02:59:27]Player NSPlayer[0] joined team marines.
+[02:59:27]Player NSPlayer[0] joined team aliens.
+[02:59:27]Player NSPlayer[0] joined team aliens.
+[02:59:27]Player [BOT] Loki[0] joined team marines.
+[02:59:27]Player [BOT] Matso[0] joined team marines.
+[02:59:27]Player [BOT] Steelcap[0] joined team aliens.
+[02:59:27]Player [BOT] Mazza[0] joined team aliens.
+[02:59:27]Player [BOT] m4x0r[0] joined team marines.
+[02:59:27]Player [BOT] ScardyBob[0] joined team marines.
+[02:59:27]Player [BOT] zaggynl[0] joined team aliens.
+[02:59:28]Bot removed.
+[02:59:28]Bot removed.
+[02:59:28]Bot removed.
+[02:59:28]Bot removed.
+[02:59:28]Bot removed.
+[02:59:28]Bot removed.
+[02:59:28]Bot removed.
+[02:59:28]Bot removed.
+[02:59:28]Bot removed.
+[02:59:28]Bot removed.
+[02:59:28]Bot removed.
+[02:59:28]Client Sir McSalot[9002712][Ready Room] disconnected.
+
+
+
+[03:21:12]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[03:21:15]Shine started up successfully.
+[03:21:18][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[04:09:18]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[04:09:21]Shine started up successfully.
+[04:09:24][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+[04:44:24]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[04:44:28]Player Sir McSalot[9002712] joined team aliens.
+[04:44:28]Player NSPlayer[0] joined team marines.
+[04:44:28]Player NSPlayer[0] joined team marines.
+[04:44:28]Player NSPlayer[0] joined team aliens.
+[04:44:28]Player NSPlayer[0] joined team aliens.
+[04:44:28]Player [BOT] Zefram[0] joined team marines.
+[04:44:28]Player [BOT] Patrick8675[0] joined team marines.
+[04:44:28]Player [BOT] Steven G.[0] joined team aliens.
+[04:44:28]Player [BOT] GISP[0] joined team aliens.
+[04:44:28]Player [BOT] WDI[0] joined team marines.
+[04:44:28]Player [BOT] Mazza[0] joined team marines.
+[04:44:28]Player [BOT] Rantology[0] joined team aliens.
+[04:44:28]Bot removed.
+[04:44:28]Bot removed.
+[04:44:28]Bot removed.
+[04:44:28]Bot removed.
+[04:44:28]Bot removed.
+[04:44:28]Bot removed.
+[04:44:28]Bot removed.
+[04:44:28]Bot removed.
+[04:44:28]Bot removed.
+[04:44:28]Bot removed.
+[04:44:28]Bot removed.
+[04:44:28]Client Sir McSalot[9002712][Ready Room] disconnected.
+[04:45:10]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[04:45:12]Sir McSalot[9002712] ran command sh_adminmenu with no arguments.
+[04:45:18]Shine started up successfully.
+[04:45:20][Badges] [Info] Setup badges successfully.
+[04:45:34]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[04:45:38]Sir McSalot[9002712] ran command sh_votemap with no arguments.
+[04:45:40]Sir McSalot[9002712] ran command sh_adminmenu with no arguments.
+[04:45:46]Shine started up successfully.
+[04:45:48][Badges] [Info] Setup badges successfully.
+[04:46:02]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[04:46:04]Player Sir McSalot[9002712] joined team aliens.
+[04:46:04]Player NSPlayer[0] joined team marines.
+[04:46:04]Player NSPlayer[0] joined team marines.
+[04:46:04]Player NSPlayer[0] joined team aliens.
+[04:46:04]Player NSPlayer[0] joined team aliens.
+[04:46:04]Player [BOT] Brackhar[0] joined team marines.
+[04:46:04]Player [BOT] Obraxis[0] joined team marines.
+[04:46:04]Player [BOT] remi.D[0] joined team aliens.
+[04:46:04]Player [BOT] MGS-3[0] joined team aliens.
+[04:46:04]Player [BOT] puzl[0] joined team marines.
+[04:46:04]Player [BOT] Strayan[0] joined team marines.
+[04:46:04]Player [BOT] SteveRock[0] joined team aliens.
+[04:46:21]Sir McSalot[9002712] ran command sh_adminmenu with no arguments.
+[04:46:21][BOT] Darrin F.[0][Aliens] killed [BOT] Strayan[0][Marines] with LerkBite. Attacker location: (-52.650, 39.486, 75.684). Victim location: (-52.258, 39.023, 82.805).
+[04:46:23][BOT] puzl[0][Marines] killed [BOT] SteveRock[0][Aliens] with Shotgun. Attacker location: (-48.357, 40.416, 87.450). Victim location: (-52.883, 40.266, 84.336).
+[04:46:24][BOT] MonsieurEvil[0][Marines] killed [BOT] Darrin F.[0][Aliens] with Shotgun. Attacker location: (-46.996, 39.036, 88.647). Victim location: (-51.648, 39.250, 84.406).
+[04:52:57]Shine started up successfully.
+[04:53:00][Badges] [Info] Setup badges successfully.
+[04:53:13]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[04:53:23]Client Sir McSalot[9002712][Ready Room] disconnected.
+
+
+
+
+
+
+
+
+[05:41:00]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[05:41:03]Shine started up successfully.
+[05:41:06][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[06:29:06]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[06:29:09]Shine started up successfully.
+[06:29:12][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[07:17:13]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[07:17:16]Shine started up successfully.
+[07:17:18][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[08:05:18]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[08:05:21]Shine started up successfully.
+[08:05:24][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[08:53:24]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[08:53:27]Shine started up successfully.
+[08:53:29][Badges] [Info] Setup badges successfully.
+
+[09:03:36]Client Buhha Raw[37204024][Ready Room] disconnected.
+
+
+
+
+
+
+[09:41:30]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[09:41:33]Shine started up successfully.
+[09:41:36][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[10:29:35]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[10:29:38]Shine started up successfully.
+[10:29:41][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[11:17:41]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[11:17:44]Shine started up successfully.
+[11:17:46][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[12:05:47]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[12:05:50]Shine started up successfully.
+[12:05:53][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[12:53:54]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[12:53:57]Shine started up successfully.
+[12:53:59][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[13:42:00]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[13:42:04]Shine started up successfully.
+[13:42:06][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[14:30:07]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[14:30:10]Shine started up successfully.
+[14:30:13][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[15:18:13]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[15:18:16]Shine started up successfully.
+[15:18:20][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+[15:56:49]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[15:58:24]Player Sir McSalot[9002712] joined team spectators.
+
+
+
+[16:19:58]Client B0b[4596815 - STEAM_0:1:2298407]<71.115.203.90> connected.
+[16:20:02]Client B0b[4596815][Ready Room] disconnected.
+[16:26:14]Client Sir McSalot[9002712][Ready Room] disconnected.
+[16:26:14]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[16:26:17]Shine started up successfully.
+[16:26:19][Badges] [Info] Setup badges successfully.
+[16:29:08]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[16:29:10]Client Sir McSalot[9002712][Ready Room] disconnected.
+
+
+
+
+
+
+
+
+[17:14:20]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[17:14:23]Shine started up successfully.
+[17:14:25][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[18:02:25]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[18:02:28]Shine started up successfully.
+[18:02:30][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[18:50:31]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[18:50:34]Shine started up successfully.
+[18:50:36][Badges] [Info] Setup badges successfully.
+
+
+
+
+[19:20:35]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+
+
+[19:31:32]Client Muerte[85827399 - STEAM_0:1:42913699]<213.21.16.165> connected.
+[19:31:39]Client Muerte[85827399][Ready Room] disconnected.
+
+
+
+
+
+
+
+[20:10:54]Client •••[307556350 - STEAM_0:0:153778175]<120.231.76.123> connected.
+[20:11:09]Client •••[307556350][Ready Room] disconnected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[21:30:05]Client Sir McSalot[9002712][Ready Room] disconnected.
+[21:30:06]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[21:30:09]Shine started up successfully.
+[21:30:11][Badges] [Info] Setup badges successfully.
+[21:32:10]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<65.129.138.59> connected.
+[21:32:16]Client Sir McSalot[9002712][Ready Room] disconnected.
+
+
+
+
+
+
+
+
+[22:18:12]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[22:18:15]Shine started up successfully.
+[22:18:17][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[23:06:18]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[23:06:21]Shine started up successfully.
+[23:06:24][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+[23:54:24]Server is at or below empty player count and map has exceeded its timelimit. Cycling to next map...
+[23:54:27]Shine started up successfully.
+[23:54:29][Badges] [Info] Setup badges successfully.

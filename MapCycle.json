@@ -1,0 +1,6 @@
+{
+  "maps":["ns2_derelict","ns2_kodiak","ns2_eclipse","ns2_biodome","ns2_descent","ns2_docking","ns2_mineshaft","ns2_refinery","ns2_summit","ns2_tram","ns2_veil"],
+  "time":48,
+  "mode":"random",
+  "mods":[ "4241b84e", "aa8da06", "706d242", "aa8da06", "2097ae8b", "334982d2", "3250f1d6", "6a02c07", "334982d2", "235ee3a6"]
+}

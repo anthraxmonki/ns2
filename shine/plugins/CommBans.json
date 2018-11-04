@@ -1,0 +1,10 @@
+{
+    "Banned": [],
+    "BansSubmitArguments": [],
+    "BansSubmitURL": "",
+    "DefaultBanTime": 60,
+    "LogLevel": "Info",
+    "MaxSubmitRetries": 3,
+    "SubmitTimeout": 5,
+    "__Version": "1.0"
+}

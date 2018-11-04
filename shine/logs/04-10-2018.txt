@@ -1,0 +1,884 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[01:37:15]Client Nems[888975106 - STEAM_0:0:444487553]<182.54.169.132> connected.
+[01:37:16]Client Nems[888975106][Ready Room] disconnected.
+
+[01:46:20]Client Sir McSalot[9002712][Ready Room] disconnected.
+[01:46:49]Client Sir McSalot[9002712 - STEAM_0:0:4501356]<174.27.61.95> connected.
+
+
+
+
+
+
+
+[02:28:40]Client Sir McSalot[9002712][Ready Room] disconnected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[07:33:09]Shine started up successfully.
+[07:33:12][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[17:32:07]Shine started up successfully.
+[17:32:10][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[20:03:08]Client Sharkman202[281982710 - STEAM_0:0:140991355]<150.107.174.37> connected.
+[20:03:20]Player Sharkman202[281982710] joined team aliens.
+[20:03:20]Player NSPlayer[0] joined team marines.
+[20:03:20][BOT] Numerik[0][Marines] became the commander of the marine team.
+[20:03:20]Player NSPlayer[0] joined team marines.
+[20:03:20]Player NSPlayer[0] joined team aliens.
+[20:03:20][BOT] Ooghi[0][Aliens] became the commander of the alien team.
+[20:03:20]Player NSPlayer[0] joined team aliens.
+[20:03:20]Player [BOT] Lachdanan[0] joined team marines.
+[20:03:20]Player [BOT] puzl[0] joined team marines.
+[20:03:20]Player [BOT] Obraxis[0] joined team aliens.
+[20:03:20]Player [BOT] Asraniel[0] joined team aliens.
+[20:03:20]Player [BOT] Katzenfleisch[0] joined team marines.
+[20:03:20]Player [BOT] Rantology[0] joined team marines.
+[20:03:20]Player [BOT] Ironhorse[0] joined team aliens.
+[20:03:28]Bot removed.
+[20:03:28]Bot removed.
+[20:03:28]Bot removed.
+[20:03:28]Bot removed.
+[20:03:28]Bot removed.
+[20:03:28]Bot removed.
+[20:03:28]Bot removed.
+[20:03:28]Bot removed.
+[20:03:28]Bot removed.
+[20:03:28]Bot removed.
+[20:03:28]Bot removed.
+[20:03:28]Client Sharkman202[281982710][Ready Room] disconnected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[22:04:16]Client cyctechcampfor*****[895994336 - STEAM_0:0:447997168]<182.54.169.132> connected.
+[22:04:22]Client cyctechcampfor*****[895994336][Ready Room] disconnected.
+
+[22:16:16]Client •••[307556350 - STEAM_0:0:153778175]<120.239.157.67> connected.
+[22:16:27]Player •••[307556350] joined team marines.
+[22:16:27]Player NSPlayer[0] joined team aliens.
+[22:16:27][BOT] Matso[0][Aliens] became the commander of the alien team.
+[22:16:27]Player NSPlayer[0] joined team aliens.
+[22:16:27]Player [BOT] OwNzOr[0] joined team marines.
+[22:16:27][BOT] OwNzOr[0][Marines] became the commander of the marine team.
+[22:16:27]Player [BOT] m4x0r[0] joined team marines.
+[22:16:27]Player [BOT] Hanschuh[0] joined team aliens.
+[22:16:27]Player [BOT] zaggynl[0] joined team aliens.
+[22:16:27]Player [BOT] Chops[0] joined team marines.
+[22:16:27]Player [BOT] Railo[0] joined team marines.
+[22:16:27]Player [BOT] Squeal Like a [0] joined team aliens.
+[22:16:27]Player [BOT] Steelcap[0] joined team aliens.
+[22:16:27]Player [BOT] MGS-3[0] joined team marines.
+[22:16:42][BOT] OwNzOr[0][Marines] stopped commanding the marine team.
+[22:16:42][BOT] Matso[0][Aliens] stopped commanding the alien team.
+[22:16:42][BOT] OwNzOr[0][Marines] became the commander of the marine team.
+[22:16:42][BOT] Matso[0][Aliens] became the commander of the alien team.
+[22:16:48]Round started. Build: 324. Map: ns2_kodiak.
+[22:16:48][BOT] OwNzOr[0][Marines] began construction of Extractor[3186].
+[22:16:48][BOT] OwNzOr[0][Marines] began construction of Armory[2376].
+[22:16:48][BOT] OwNzOr[0][Marines] began construction of ArmsLab[3850].
+[22:16:53][BOT] OwNzOr[0][Marines] began construction of Extractor[3859].
+[22:16:56][BOT] OwNzOr[0][Marines] began construction of Observatory[1760].
+[22:17:11][BOT] OwNzOr[0][Marines] began construction of Extractor[3888].
+[22:17:11][BOT] Matso[0][Aliens] began construction of Harvester[150].
+[22:17:18][BOT] OwNzOr[0][Marines] began construction of Extractor[3070].
+[22:17:19]Client Cryoraptor[84781141 - STEAM_0:1:42390570]<72.82.164.31> connected.
+[22:17:20][BOT] m4x0r[0][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-131.585, -3.800, -1.168). Victim location: (-124.531, -3.258, 4.102).
+[22:17:31]Armory[2376] was recycled.
+[22:17:33][BOT] MGS-3[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-164.686, -2.090, 35.950). Victim location: (-172.984, -0.719, 31.688).
+[22:17:35]•••[307556350][Marines] killed [BOT] Steelcap[0][Aliens] with Rifle. Attacker location: (-174.577, -0.820, 24.100). Victim location: (-173.781, -1.972, 32.826).
+[22:17:38][BOT] Railo[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Rifle. Attacker location: (-165.759, -2.085, 36.431). Victim location: (-170.898, -2.086, 35.250).
+[22:17:39][BOT] Matso[0][Aliens] began construction of Harvester[3780].
+[22:17:46][BOT] Railo[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Rifle. Attacker location: (-170.073, -2.085, 36.101). Victim location: (-174.844, -2.070, 37.180).
+[22:17:47]Player Cryoraptor[84781141] joined team spectators.
+[22:17:58][BOT] Chops[0][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-193.841, -7.917, 48.654). Victim location: (-189.820, -7.930, 54.609).
+[22:18:02][BOT] Matso[0][Aliens] began construction of Harvester[2191].
+[22:18:10][BOT] Railo[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-184.852, -8.750, 83.355). Victim location: (-180.438, -8.492, 89.734).
+[22:18:12][BOT] Chops[0][Marines] killed [BOT] Steelcap[0][Aliens] with Rifle. Attacker location: (-187.865, -9.027, 86.975). Victim location: (-187.563, -8.508, 88.289).
+[22:18:28][BOT] Railo[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Rifle. Attacker location: (-185.289, -7.915, 64.399). Victim location: (-183.305, -7.172, 78.477).
+[22:18:30]Client hahahahahahahahahaha[903704407 - STEAM_0:1:451852203]<174.37.130.131> connected.
+[22:18:35][BOT] OwNzOr[0][Marines] began construction of Extractor[2625].
+[22:18:37][BOT] m4x0r[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Rifle. Attacker location: (-83.586, -9.383, 30.394). Victim location: (-85.500, -8.602, 28.531).
+[22:18:43]Bot removed.
+[22:18:43]Player hahahahahahahahahaha[903704407] joined team aliens.
+[22:18:48][BOT] Matso[0][Aliens] began construction of Veil[3566].
+[22:18:51][BOT] MGS-3[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-174.961, -8.736, 97.017). Victim location: (-173.008, -8.633, 100.625).
+[22:18:52]Armory[2376] was recycled.
+[22:18:54][BOT] OwNzOr[0][Marines] began construction of Extractor[2330].
+[22:18:57][BOT] Chops[0][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-141.539, -2.625, 6.364). Victim location: (-137.281, -3.742, 8.148).
+[22:19:06]Bot removed.
+[22:19:06]hahahahahahahahahaha[903704407][Aliens] became the commander of the alien team.
+[22:19:12]hahahahahahahahahaha[903704407][Aliens] began construction of Harvester[1825].
+[22:19:16][BOT] Chops[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Rifle. Attacker location: (-193.940, -7.185, 36.917). Victim location: (-193.055, -7.906, 48.953).
+[22:19:20][BOT] Chops[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Rifle. Attacker location: (-193.480, -7.909, 53.837). Victim location: (-189.359, -7.453, 56.453).
+[22:19:34][BOT] Chops[0][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-177.859, -8.750, 93.487). Victim location: (-171.922, -6.625, 96.469).
+[22:19:42]•••[307556350][Marines] killed Cyst with Rifle. Attacker location: (-185.387, -8.750, 84.351). Victim location: (-187.897, -11.325, 98.569).
+[22:19:45]Chat from Cryoraptor[84781141][Spectate]: hold shift to run
+[22:20:00]•••[307556350][Marines] killed Cyst with Welder. Attacker location: (-205.641, -9.205, 126.367). Victim location: (-206.086, -9.065, 129.065).
+[22:20:05][BOT] m4x0r[0][Marines] killed Cyst with Rifle. Attacker location: (-240.908, -6.300, 79.809). Victim location: (-234.206, -6.165, 88.607).
+[22:20:21][BOT] McGlaspie[0][Aliens] killed Observatory with BiteLeap. Attacker location: (-146.974, -3.032, -1.955). Victim location: (-147.476, -3.026, -2.676).
+[22:20:25][BOT] OwNzOr[0][Marines] began construction of Observatory[401].
+[22:20:29][BOT] OwNzOr[0][Marines] began construction of Observatory[1140].
+[22:20:32][BOT] OwNzOr[0][Marines] began construction of Observatory[1025].
+[22:20:35]ArmsLab[3850] was recycled.
+[22:20:36][BOT] OwNzOr[0][Marines] began construction of Observatory[1348].
+[22:20:38][BOT] m4x0r[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Rifle. Attacker location: (-145.155, -2.334, 20.730). Victim location: (-144.109, -3.023, 15.461).
+[22:20:38][BOT] OwNzOr[0][Marines] began construction of Observatory[1776].
+[22:20:39]hahahahahahahahahaha[903704407][Aliens] began construction of Shade[2526].
+[22:20:43][BOT] m4x0r[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-143.132, -3.026, 18.348). Victim location: (-145.492, -2.781, 16.102).
+[22:20:44]Armory[2376] was recycled.
+[22:20:44]hahahahahahahahahaha[903704407][Aliens] began construction of Hive[1116].
+[22:20:46][BOT] Squeal Like a [0][Aliens] killed [BOT] Chops[0][Marines] with BiteLeap. Attacker location: (-143.758, -2.530, 9.813). Victim location: (-142.281, -3.023, 9.953).
+[22:20:47][BOT] MGS-3[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Rifle. Attacker location: (-145.675, -1.957, 23.141). Victim location: (-143.859, -3.023, 14.727).
+[22:21:15][BOT] zaggynl[0][Aliens] killed [BOT] Railo[0][Marines] with LerkBite. Attacker location: (-188.205, -9.039, 93.776). Victim location: (-185.828, -9.531, 89.570).
+[22:21:15]Client Cryoraptor[84781141][Ready Room] disconnected.
+[22:21:15]Player NSPlayer[0] joined team aliens.
+[22:21:18]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[1615].
+[22:21:28][BOT] Chops[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Shotgun. Attacker location: (-186.342, -7.921, 57.868). Victim location: (-186.203, -6.461, 58.930).
+[22:21:31][BOT] m4x0r[0][Marines] killed [BOT] zaggynl[0][Aliens] with Shotgun. Attacker location: (-185.430, -7.921, 57.267). Victim location: (-183.969, -6.258, 67.742).
+[22:21:32][BOT] Chops[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-185.758, -7.921, 58.419). Victim location: (-185.141, -7.633, 63.836).
+[22:21:38]hahahahahahahahahaha[903704407][Aliens] began construction of Shift[3045].
+[22:21:40][BOT] m4x0r[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Shotgun. Attacker location: (-182.667, -8.750, 82.464). Victim location: (-183.617, -7.398, 87.664).
+[22:21:49]ArmsLab[3850] was recycled.
+[22:22:00][BOT] Chops[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Shotgun. Attacker location: (-161.451, -5.989, 112.855). Victim location: (-158.594, -7.547, 107.445).
+[22:22:04][BOT] MGS-3[0][Marines] killed [BOT] zaggynl[0][Aliens] with Shotgun. Attacker location: (-165.340, -4.940, 114.507). Victim location: (-161.133, -5.680, 114.578).
+[22:22:08][BOT] Chops[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-161.173, -6.262, 112.355). Victim location: (-158.820, -7.117, 105.445).
+[22:22:11]•••[307556350][Marines] killed [BOT] WasabiOne[0][Aliens] with Rifle. Attacker location: (-142.551, -3.026, 15.668). Victim location: (-137.989, -2.315, 14.417).
+[22:22:12]hahahahahahahahahaha[903704407][Aliens] began construction of Veil[1282].
+[22:22:14]hahahahahahahahahaha[903704407][Aliens] began construction of Veil[3253].
+[22:22:17][BOT] Railo[0][Marines] killed Harvester with Shotgun. Attacker location: (-174.586, -3.535, 111.051). Victim location: (-176.174, -4.150, 118.069).
+[22:22:17][BOT] OwNzOr[0][Marines] began construction of Extractor[3175].
+[22:22:28][BOT] OwNzOr[0][Marines] began construction of Extractor[80].
+[22:22:30]hahahahahahahahahaha[903704407][Aliens] killed Extractor with Whip. Attacker location: (-180.109, 15.297, 115.727). Victim location: (-203.367, -9.107, 129.433).
+[22:22:35][BOT] OwNzOr[0][Marines] began construction of Extractor[1232].
+[22:22:36]•••[307556350][Marines] killed [BOT] Squeal Like a [0][Aliens] with Rifle. Attacker location: (-137.614, -3.731, 8.183). Victim location: (-136.333, -3.182, 6.080).
+[22:22:40][BOT] OwNzOr[0][Marines] began construction of Extractor[3951].
+[22:22:42][BOT] Railo[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Shotgun. Attacker location: (-173.439, -8.650, 99.197). Victim location: (-179.617, -7.859, 85.438).
+[22:22:43]hahahahahahahahahaha[903704407][Aliens] began construction of Harvester[3758].
+[22:22:44]Armory[2376] was recycled.
+[22:22:45][BOT] OwNzOr[0][Marines] began construction of PrototypeLab[638].
+[22:22:46]hahahahahahahahahaha[903704407][Aliens] began construction of Harvester[2027].
+[22:23:06][BOT] zaggynl[0][Aliens] killed •••[307556350][Marines] with BiteLeap. Attacker location: (-145.932, -2.207, -2.775). Victim location: (-145.141, -2.547, -1.961).
+[22:23:09][BOT] MGS-3[0][Marines] killed [BOT] zaggynl[0][Aliens] with Shotgun. Attacker location: (-129.409, -3.386, -8.045). Victim location: (-132.078, -3.023, -6.750).
+[22:23:10][BOT] m4x0r[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Shotgun. Attacker location: (-163.706, -8.707, 100.301). Victim location: (-155.234, -7.461, 98.961).
+[22:23:19]ArmsLab[3850] was recycled.
+[22:23:22][BOT] Railo[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-140.495, -7.557, 100.757). Victim location: (-144.680, -7.555, 103.344).
+[22:23:23][BOT] Railo[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Shotgun. Attacker location: (-142.111, -7.557, 104.203). Victim location: (-140.289, -4.609, 111.422).
+[22:23:38]Armory[2376] was recycled.
+[22:24:01][BOT] Hanschuh[0][Aliens] killed Observatory with BiteLeap. Attacker location: (-134.844, -4.037, 6.640). Victim location: (-134.668, -3.766, 8.027).
+[22:24:05][BOT] Hanschuh[0][Aliens] killed [BOT] Railo[0][Marines] with BiteLeap. Attacker location: (-147.795, -1.663, 8.649). Victim location: (-147.445, -3.023, 9.859).
+[22:24:06][BOT] OwNzOr[0][Marines] began construction of Observatory[3185].
+[22:24:06][BOT] WasabiOne[0][Aliens] killed [BOT] m4x0r[0][Marines] with BiteLeap. Attacker location: (-145.130, -1.768, 5.365). Victim location: (-146.547, -3.023, 6.297).
+[22:24:09]•••[307556350][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-145.267, -2.235, 20.915). Victim location: (-146.040, -2.159, 18.290).
+[22:24:10]hahahahahahahahahaha[903704407][Aliens] began construction of Shade[2397].
+[22:24:10][BOT] WasabiOne[0][Aliens] killed •••[307556350][Marines] with BiteLeap. Attacker location: (-143.580, -0.500, 22.777). Victim location: (-144.500, -1.961, 23.078).
+[22:24:11][BOT] OwNzOr[0][Marines] began construction of Observatory[3610].
+[22:24:14][BOT] OwNzOr[0][Marines] began construction of InfantryPortal[3747].
+[22:24:15][BOT] OwNzOr[0][Marines] began construction of InfantryPortal[713].
+[22:24:15][BOT] OwNzOr[0][Marines] began construction of InfantryPortal[717].
+[22:24:16][BOT] OwNzOr[0][Marines] began construction of InfantryPortal[1571].
+[22:24:23][BOT] Squeal Like a [0][Aliens] killed [BOT] Railo[0][Marines] with BiteLeap. Attacker location: (-121.888, -2.411, 5.396). Victim location: (-120.695, -3.734, 5.523).
+[22:24:24]hahahahahahahahahaha[903704407][Aliens] killed Extractor with Whip. Attacker location: (-241.703, 9.141, 82.992). Victim location: (-234.214, -6.299, 85.641).
+[22:24:24][BOT] OwNzOr[0][Marines] began construction of Observatory[508].
+[22:24:26][BOT] m4x0r[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Rifle. Attacker location: (-136.765, -2.781, -7.306). Victim location: (-135.969, -1.977, -3.719).
+[22:24:29][BOT] m4x0r[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Rifle. Attacker location: (-129.252, -3.420, -5.944). Victim location: (-131.602, -1.602, -6.383).
+[22:24:44][BOT] OwNzOr[0][Marines] began construction of Extractor[2048].
+[22:24:49][BOT] MGS-3[0][Marines] killed [BOT] zaggynl[0][Aliens] with Shotgun. Attacker location: (-178.019, -8.750, 92.457). Victim location: (-173.922, -8.391, 102.797).
+[22:24:52][BOT] OwNzOr[0][Marines] began construction of Extractor[3488].
+[22:24:53]hahahahahahahahahaha[903704407][Aliens] began construction of Harvester[3301].
+[22:24:55][BOT] WasabiOne[0][Aliens] killed [BOT] Chops[0][Marines] with BiteLeap. Attacker location: (-189.648, -7.636, 90.749). Victim location: (-190.078, -9.320, 89.742).
+[22:24:57][BOT] MGS-3[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Shotgun. Attacker location: (-185.426, -8.275, 77.214). Victim location: (-187.148, -6.523, 82.828).
+[22:25:08]PrototypeLab[638] was recycled.
+[22:25:14]hahahahahahahahahaha[903704407][Aliens] began construction of Spur[1731].
+[22:25:15]hahahahahahahahahaha[903704407][Aliens] began construction of Spur[1754].
+[22:25:17]hahahahahahahahahaha[903704407][Aliens] killed PowerPoint with Whip. Attacker location: (-88.250, 15.297, 114.234). Victim location: (-241.300, -4.470, 90.729).
+[22:25:24][BOT] Railo[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-176.532, -8.750, 94.732). Victim location: (-174.039, -6.859, 91.430).
+[22:25:32]•••[307556350][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-102.472, -7.762, 10.611). Victim location: (-93.625, -9.086, 22.078).
+[22:25:34][BOT] m4x0r[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with HeavyMachineGun. Attacker location: (-159.290, -8.435, 107.438). Victim location: (-160.242, -4.992, 109.352).
+[22:25:41]•••[307556350][Marines] killed Cyst with Rifle. Attacker location: (-89.520, -9.418, 29.893). Victim location: (-86.439, -9.404, 32.697).
+[22:25:45][BOT] m4x0r[0][Marines] killed [BOT] WasabiOne[0][Aliens] with HeavyMachineGun. Attacker location: (-165.716, -8.707, 104.562). Victim location: (-166.000, -8.734, 102.234).
+[22:25:46][BOT] m4x0r[0][Marines] killed [BOT] McGlaspie[0][Aliens] with HeavyMachineGun. Attacker location: (-166.885, -8.682, 103.270). Victim location: (-163.703, -7.500, 104.797).
+[22:25:51]hahahahahahahahahaha[903704407][Aliens] began construction of Hive[1255].
+[22:25:53][BOT] Chops[0][Marines] killed [BOT] Hanschuh[0][Aliens] with HeavyMachineGun. Attacker location: (-174.742, -8.750, 95.318). Victim location: (-167.359, -8.680, 101.328).
+[22:25:57][BOT] Chops[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with HeavyMachineGun. Attacker location: (-167.622, -8.692, 100.026). Victim location: (-152.203, -5.703, 99.016).
+[22:26:07]•••[307556350][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-99.187, -7.634, 8.316). Victim location: (-99.037, -6.853, 9.962).
+[22:26:10][BOT] Chops[0][Marines] killed [BOT] McGlaspie[0][Aliens] with HeavyMachineGun. Attacker location: (-131.443, -7.614, 120.560). Victim location: (-133.516, -6.938, 123.008).
+[22:26:11][BOT] Chops[0][Marines] killed [BOT] WasabiOne[0][Aliens] with HeavyMachineGun. Attacker location: (-129.554, -7.614, 123.191). Victim location: (-134.375, -4.758, 117.047).
+[22:26:15]•••[307556350][Marines] killed Cyst with Rifle. Attacker location: (-91.609, -9.181, 22.626). Victim location: (-86.679, -9.401, 31.835).
+[22:26:21][BOT] Hanschuh[0][Aliens] killed [BOT] Chops[0][Marines] with BiteLeap. Attacker location: (-145.720, -5.714, 142.916). Victim location: (-144.727, -6.727, 143.648).
+[22:26:27][BOT] m4x0r[0][Marines] killed [BOT] zaggynl[0][Aliens] with HeavyMachineGun. Attacker location: (-86.124, -9.124, 100.864). Victim location: (-87.109, -8.742, 100.867).
+[22:26:29][BOT] m4x0r[0][Marines] killed [BOT] WasabiOne[0][Aliens] with HeavyMachineGun. Attacker location: (-86.711, -8.971, 98.086). Victim location: (-87.531, -8.664, 97.500).
+[22:26:29]•••[307556350][Marines] killed Cyst with Welder. Attacker location: (-87.939, -9.613, 32.798). Victim location: (-85.775, -9.403, 32.756).
+[22:26:44]PrototypeLab[638] was recycled.
+[22:26:49][BOT] Chops[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Rifle. Attacker location: (-159.608, -2.081, 36.197). Victim location: (-162.891, -2.094, 35.766).
+[22:26:51][BOT] m4x0r[0][Marines] killed [BOT] zaggynl[0][Aliens] with HeavyMachineGun. Attacker location: (-144.877, -6.846, 142.288). Victim location: (-137.961, -6.844, 142.336).
+[22:26:54][BOT] Chops[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-156.643, -1.241, 34.954). Victim location: (-157.539, -0.117, 34.414).
+[22:26:59][BOT] Squeal Like a [0][Aliens] killed [BOT] m4x0r[0][Marines] with Gore. Attacker location: (-147.751, -6.843, 140.698). Victim location: (-149.539, -6.828, 139.789).
+[22:27:08][BOT] Railo[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Shotgun. Attacker location: (-140.663, -3.026, 14.454). Victim location: (-141.328, -0.883, 15.063).
+[22:27:10]hahahahahahahahahaha[903704407][Aliens] killed Extractor with Whip. Attacker location: (-176.344, 21.211, 26.156). Victim location: (-171.103, -0.808, 26.695).
+[22:27:13][BOT] MGS-3[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-180.944, -8.752, 86.438). Victim location: (-179.820, -7.320, 87.180).
+[22:27:15][BOT] OwNzOr[0][Marines] began construction of Extractor[3645].
+[22:27:23][BOT] MGS-3[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Shotgun. Attacker location: (-185.951, -7.921, 58.337). Victim location: (-185.555, -5.680, 64.555).
+[22:27:25]•••[307556350][Marines] killed Cyst with Rifle. Attacker location: (-159.449, -2.081, 33.491). Victim location: (-163.384, -2.100, 36.717).
+[22:27:38][BOT] Squeal Like a [0][Aliens] killed [BOT] MGS-3[0][Marines] with Gore. Attacker location: (-171.002, -8.708, 99.595). Victim location: (-172.273, -8.633, 99.016).
+[22:27:43]•••[307556350][Marines] killed Cyst with Welder. Attacker location: (-173.679, -0.820, 27.476). Victim location: (-173.928, -0.830, 26.128).
+[22:27:51]ArmsLab[3850] was recycled.
+[22:28:00]•••[307556350][Marines] killed Cyst with Welder. Attacker location: (-181.412, -2.673, 32.366). Victim location: (-183.057, -2.803, 31.473).
+[22:28:06]•••[307556350][Marines] killed Cyst with Welder. Attacker location: (-194.587, -6.476, 35.508). Victim location: (-194.154, -7.057, 36.558).
+[22:28:11]•••[307556350][Marines] killed Cyst with Rifle. Attacker location: (-193.925, -7.909, 49.834). Victim location: (-189.006, -7.931, 54.435).
+[22:28:11][BOT] Squeal Like a [0][Aliens] killed [BOT] m4x0r[0][Marines] with Gore. Attacker location: (-158.146, -8.497, 105.105). Victim location: (-157.617, -8.703, 103.766).
+[22:28:13][BOT] Hanschuh[0][Aliens] killed [BOT] Chops[0][Marines] with SwipeBlink. Attacker location: (-162.599, -8.576, 100.160). Victim location: (-162.313, -8.703, 99.242).
+[22:28:17][BOT] MGS-3[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Shotgun. Attacker location: (-89.061, -9.669, 16.383). Victim location: (-90.063, -7.688, 17.305).
+[22:28:17][BOT] Hanschuh[0][Aliens] killed [BOT] Railo[0][Marines] with SwipeBlink. Attacker location: (-177.891, -8.713, 91.915). Victim location: (-178.492, -8.750, 90.516).
+[22:28:18]Client •••[307556350][Ready Room] disconnected.
+[22:28:18]Player NSPlayer[0] joined team marines.
+[22:28:19][BOT] OwNzOr[0][Marines] began construction of InfantryPortal[16].
+[22:28:31]hahahahahahahahahaha[903704407][Aliens] began construction of Spur[457].
+[22:28:35]hahahahahahahahahaha[903704407][Aliens] began construction of Crag[2365].
+[22:28:37][BOT] Chops[0][Marines] killed [BOT] Hanschuh[0][Aliens] with HeavyMachineGun. Attacker location: (-146.133, -3.026, 0.658). Victim location: (-144.328, -3.172, 9.398).
+[22:28:37][BOT] MGS-3[0][Marines] killed Cyst with Shotgun. Attacker location: (-88.885, -9.014, 28.807). Victim location: (-87.028, -9.642, 33.159).
+[22:28:39][BOT] Railo[0][Marines] killed [BOT] McGlaspie[0][Aliens] with HeavyMachineGun. Attacker location: (-145.944, -3.026, 5.532). Victim location: (-145.195, -3.023, 13.648).
+[22:29:01][BOT] Railo[0][Marines] killed [BOT] WasabiOne[0][Aliens] with HeavyMachineGun. Attacker location: (-182.938, -2.516, 33.192). Victim location: (-183.453, -1.828, 31.672).
+[22:29:15][BOT] McGlaspie[0][Aliens] killed [BOT] Railo[0][Marines] with BiteLeap. Attacker location: (-182.970, -6.655, 75.929). Victim location: (-182.102, -8.219, 76.758).
+[22:29:21][BOT] m4x0r[0][Marines] killed [BOT] zaggynl[0][Aliens] with Shotgun. Attacker location: (-121.494, -8.802, 69.932). Victim location: (-129.359, -8.039, 83.531).
+[22:29:27][BOT] MGS-3[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-159.661, -2.601, 17.101). Victim location: (-159.625, 0.617, 21.781).
+[22:29:33]hahahahahahahahahaha[903704407][Aliens] began construction of Shell[374].
+[22:29:34]hahahahahahahahahaha[903704407][Aliens] began construction of Shell[2287].
+[22:29:35][BOT] MGS-3[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Shotgun. Attacker location: (-163.263, -0.766, 6.357). Victim location: (-162.625, -1.266, 9.039).
+[22:29:35]hahahahahahahahahaha[903704407][Aliens] began construction of Shell[2669].
+[22:29:41][BOT] Squeal Like a [0][Aliens] killed [BOT] m4x0r[0][Marines] with Gore. Attacker location: (-141.270, -8.978, 91.617). Victim location: (-142.563, -8.977, 91.109).
+[22:29:55][BOT] Railo[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Rifle. Attacker location: (-186.985, -7.570, 65.352). Victim location: (-187.039, -6.008, 66.414).
+[22:30:09][BOT] MGS-3[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Shotgun. Attacker location: (-184.234, -9.361, 90.840). Victim location: (-183.664, -7.367, 90.109).
+[22:30:14][BOT] McGlaspie[0][Aliens] killed [BOT] CoolCookieCook[0][Marines] with BiteLeap. Attacker location: (-93.999, -8.764, 99.555). Victim location: (-94.523, -10.008, 98.617).
+[22:30:14]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[2561].
+[22:30:16]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[2592].
+[22:30:17][BOT] WasabiOne[0][Aliens] killed [BOT] MGS-3[0][Marines] with Gore. Attacker location: (-164.360, -5.938, 83.264). Victim location: (-163.844, -5.938, 81.961).
+[22:30:35]hahahahahahahahahaha[903704407][Aliens] killed Extractor with Whip. Attacker location: (-176.320, 17.867, 24.773). Victim location: (-171.103, -0.808, 26.695).
+[22:30:40][BOT] OwNzOr[0][Marines] began construction of Extractor[1757].
+[22:30:45][BOT] WasabiOne[0][Aliens] killed [BOT] MGS-3[0][Marines] with Gore. Attacker location: (-159.064, -3.362, 19.719). Victim location: (-159.969, -3.375, 18.609).
+[22:30:48][BOT] WasabiOne[0][Aliens] killed [BOT] Railo[0][Marines] with Gore. Attacker location: (-142.215, -1.957, 23.517). Victim location: (-141.039, -0.828, 23.055).
+[22:30:57][BOT] zaggynl[0][Aliens] killed [BOT] CoolCookieCook[0][Marines] with LerkBite. Attacker location: (-124.895, -2.999, -1.221). Victim location: (-120.867, -3.766, 0.500).
+[22:31:01][BOT] zaggynl[0][Aliens] killed [BOT] MGS-3[0][Marines] with LerkBite. Attacker location: (-135.654, -2.443, -5.137). Victim location: (-136.547, -3.023, -3.789).
+[22:31:03][BOT] McGlaspie[0][Aliens] killed [BOT] Railo[0][Marines] with BiteLeap. Attacker location: (-135.679, -2.813, 5.961). Victim location: (-134.578, -4.031, 6.742).
+[22:31:04]ArmsLab[3850] was recycled.
+[22:31:09][BOT] McGlaspie[0][Aliens] killed [BOT] CoolCookieCook[0][Marines] with BiteLeap. Attacker location: (-139.488, -2.035, -7.692). Victim location: (-138.578, -3.117, -8.148).
+[22:31:09][BOT] m4x0r[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Rifle. Attacker location: (-92.366, -9.641, 32.269). Victim location: (-93.055, -9.203, 23.883).
+[22:31:15][BOT] MGS-3[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Rifle. Attacker location: (-145.372, -3.026, 16.509). Victim location: (-145.250, -3.023, 12.391).
+[22:31:17][BOT] Railo[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-145.688, -3.026, 2.215). Victim location: (-143.039, -1.961, 22.641).
+[22:31:20][BOT] zaggynl[0][Aliens] killed [BOT] m4x0r[0][Marines] with LerkBite. Attacker location: (-105.371, -5.818, -6.764). Victim location: (-106.477, -6.477, 0.398).
+[22:31:25][BOT] Squeal Like a [0][Aliens] killed [BOT] MGS-3[0][Marines] with Gore. Attacker location: (-159.626, -3.286, 19.976). Victim location: (-160.688, -3.250, 18.719).
+[22:31:31][BOT] CoolCookieCook[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with HeavyMachineGun. Attacker location: (-141.998, -3.026, 16.228). Victim location: (-126.703, -3.055, 12.914).
+[22:31:33][BOT] Railo[0][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-143.426, -3.026, 12.330). Victim location: (-136.313, -4.031, 3.086).
+[22:31:42]hahahahahahahahahaha[903704407][Aliens] killed Extractor with Whip. Attacker location: (-89.867, 21.461, 34.297). Victim location: (-85.954, -9.404, 30.277).
+[22:31:43][BOT] Chops[0][Marines] killed [BOT] WasabiOne[0][Aliens] with HeavyMachineGun. Attacker location: (-95.398, -9.699, 34.639). Victim location: (-99.539, -10.438, 38.094).
+[22:31:47][BOT] OwNzOr[0][Marines] began construction of Extractor[1924].
+[22:31:52][BOT] OwNzOr[0][Marines] began construction of Extractor[3869].
+[22:31:57][BOT] Chops[0][Marines] killed Whip with HeavyMachineGun. Attacker location: (-99.433, -10.415, 37.114). Victim location: (-89.605, -9.636, 32.383).
+[22:31:57][BOT] OwNzOr[0][Marines] began construction of Extractor[618].
+[22:32:01][BOT] Chops[0][Marines] killed [BOT] Hanschuh[0][Aliens] with HeavyMachineGun. Attacker location: (-95.874, -9.768, 36.004). Victim location: (-98.656, -9.867, 36.914).
+[22:32:02][BOT] m4x0r[0][Marines] killed Whip with Rifle. Attacker location: (-92.561, -9.218, 24.782). Victim location: (-87.279, -9.629, 34.004).
+[22:32:02][BOT] OwNzOr[0][Marines] began construction of Extractor[1925].
+[22:32:02][BOT] CoolCookieCook[0][Marines] killed [BOT] McGlaspie[0][Aliens] with HeavyMachineGun. Attacker location: (-173.085, 0.444, 20.111). Victim location: (-175.352, 0.563, 25.469).
+[22:32:08][BOT] Chops[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with HeavyMachineGun. Attacker location: (-90.291, -9.523, 38.385). Victim location: (-88.805, -9.039, 36.508).
+[22:32:20][BOT] CoolCookieCook[0][Marines] killed [BOT] WasabiOne[0][Aliens] with HeavyMachineGun. Attacker location: (-174.121, -0.820, 25.706). Victim location: (-173.883, 0.641, 22.102).
+[22:32:31][BOT] Railo[0][Marines] killed Cyst with Rifle. Attacker location: (-93.070, -9.185, 24.500). Victim location: (-85.901, -9.404, 32.995).
+[22:32:34][BOT] Railo[0][Marines] killed Cyst with Rifle. Attacker location: (-92.972, -9.193, 24.267). Victim location: (-95.335, -9.706, 35.065).
+[22:32:36][BOT] CoolCookieCook[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with HeavyMachineGun. Attacker location: (-194.567, -7.909, 50.327). Victim location: (-191.047, -7.891, 53.008).
+[22:32:40][BOT] CoolCookieCook[0][Marines] killed [BOT] zaggynl[0][Aliens] with HeavyMachineGun. Attacker location: (-187.200, -7.921, 56.901). Victim location: (-185.781, -7.672, 60.055).
+[22:32:58][BOT] CoolCookieCook[0][Marines] killed [BOT] WasabiOne[0][Aliens] with HeavyMachineGun. Attacker location: (-164.801, -5.957, 84.965). Victim location: (-163.820, -4.797, 82.328).
+[22:33:01]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[3069].
+[22:33:02][BOT] Squeal Like a [0][Aliens] killed [BOT] Railo[0][Marines] with BiteLeap. Attacker location: (-129.568, -7.623, 75.009). Victim location: (-128.781, -8.703, 73.289).
+[22:33:02]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[1518].
+[22:33:03]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[1682].
+[22:33:04]ArmsLab[3850] was recycled.
+[22:33:06]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[2543].
+[22:33:08][BOT] CoolCookieCook[0][Marines] killed [BOT] McGlaspie[0][Aliens] with HeavyMachineGun. Attacker location: (-165.756, -5.967, 83.793). Victim location: (-163.461, -6.273, 79.156).
+[22:33:10][BOT] Squeal Like a [0][Aliens] killed [BOT] Chops[0][Marines] with BiteLeap. Attacker location: (-111.586, -11.050, 53.332). Victim location: (-110.984, -12.219, 54.195).
+[22:33:15]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[2732].
+[22:33:16][BOT] Hanschuh[0][Aliens] killed [BOT] MGS-3[0][Marines] with SwipeBlink. Attacker location: (-85.212, -13.104, 27.487). Victim location: (-86.031, -13.055, 27.992).
+[22:33:17]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[3381].
+[22:33:19][BOT] m4x0r[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Rifle. Attacker location: (-81.498, -11.653, 29.556). Victim location: (-82.563, -12.141, 29.563).
+[22:33:20][BOT] m4x0r[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-81.589, -13.022, 28.994). Victim location: (-84.219, -12.930, 28.891).
+[22:33:24][BOT] zaggynl[0][Aliens] killed [BOT] m4x0r[0][Marines] with BiteLeap. Attacker location: (-87.512, -12.135, 27.362). Victim location: (-85.859, -13.016, 28.078).
+[22:33:29]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[3582].
+[22:33:31][BOT] CoolCookieCook[0][Marines] killed [BOT] WasabiOne[0][Aliens] with HeavyMachineGun. Attacker location: (-101.629, -10.932, 38.799). Victim location: (-104.813, -11.875, 42.414).
+[22:33:36]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[3776].
+[22:33:47]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[3494].
+[22:33:53][BOT] m4x0r[0][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-99.243, -9.728, 19.153). Victim location: (-95.969, -10.508, 21.258).
+[22:33:56][BOT] Chops[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-158.151, -0.973, 35.023). Victim location: (-160.531, -2.078, 33.219).
+[22:34:01][BOT] WasabiOne[0][Aliens] killed [BOT] CoolCookieCook[0][Marines] with BiteLeap. Attacker location: (-126.830, -7.489, 75.832). Victim location: (-126.344, -8.391, 77.320).
+[22:34:04]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[99].
+[22:34:04][BOT] Railo[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Rifle. Attacker location: (-105.292, -11.175, 61.221). Victim location: (-113.453, -7.219, 61.586).
+[22:34:08]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[2508].
+[22:34:12][BOT] Chops[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Rifle. Attacker location: (-169.761, -2.085, 34.915). Victim location: (-170.258, -0.383, 35.766).
+[22:34:12][BOT] Chops[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Rifle. Attacker location: (-169.112, -2.085, 35.977). Victim location: (-169.750, -1.398, 33.594).
+[22:34:20]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[586].
+[22:34:26][BOT] Railo[0][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-104.885, -11.711, 60.033). Victim location: (-105.641, -9.547, 61.391).
+[22:34:28][BOT] Hanschuh[0][Aliens] killed [BOT] Railo[0][Marines] with BiteLeap. Attacker location: (-107.851, -10.782, 53.026). Victim location: (-107.844, -12.172, 51.859).
+[22:34:30]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[2197].
+[22:34:39][BOT] m4x0r[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Shotgun. Attacker location: (-126.988, -3.737, 8.330). Victim location: (-125.016, -3.734, 5.414).
+[22:34:42]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[2114].
+[22:34:49][BOT] McGlaspie[0][Aliens] killed [BOT] CoolCookieCook[0][Marines] with BiteLeap. Attacker location: (-157.825, -0.680, 36.374). Victim location: (-157.758, 0.320, 36.492).
+[22:34:49][BOT] Squeal Like a [0][Aliens] killed [BOT] MGS-3[0][Marines] with BiteLeap. Attacker location: (-162.943, -0.603, 36.830). Victim location: (-161.789, -2.094, 36.813).
+[22:34:54][BOT] m4x0r[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Shotgun. Attacker location: (-147.707, -1.674, 22.235). Victim location: (-148.438, -0.523, 23.016).
+[22:34:54][BOT] McGlaspie[0][Aliens] killed [BOT] m4x0r[0][Marines] with BiteLeap. Attacker location: (-146.174, -0.702, 24.037). Victim location: (-146.734, -1.234, 22.773).
+[22:34:57][BOT] Chops[0][Marines] killed [BOT] McGlaspie[0][Aliens] with HeavyMachineGun. Attacker location: (-144.426, -3.175, 9.866). Victim location: (-145.156, -3.023, 13.266).
+[22:35:00][BOT] Chops[0][Marines] killed [BOT] WasabiOne[0][Aliens] with HeavyMachineGun. Attacker location: (-146.280, -3.026, 1.018). Victim location: (-143.297, -2.492, 3.234).
+[22:35:03]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[348].
+[22:35:07]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[951].
+[22:35:17][BOT] MGS-3[0][Marines] killed Cyst with Shotgun. Attacker location: (-159.639, -2.082, 31.088). Victim location: (-162.820, -2.100, 36.542).
+[22:35:19]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[1079].
+[22:35:21][BOT] CoolCookieCook[0][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-171.117, -2.084, 35.785). Victim location: (-173.844, -0.797, 36.086).
+[22:35:26][BOT] MGS-3[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Shotgun. Attacker location: (-162.690, -2.090, 35.168). Victim location: (-163.563, -0.320, 35.492).
+[22:35:27]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[3009].
+[22:35:27][BOT] Railo[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-106.861, -10.965, 63.329). Victim location: (-108.102, -10.242, 58.125).
+[22:35:33][BOT] CoolCookieCook[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Rifle. Attacker location: (-184.123, -2.750, 29.681). Victim location: (-184.438, -1.445, 28.703).
+[22:35:38]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[3410].
+[22:35:48][BOT] CoolCookieCook[0][Marines] killed [BOT] Hanschuh[0][Aliens] with Rifle. Attacker location: (-180.817, -8.750, 87.640). Victim location: (-175.047, -8.734, 97.172).
+[22:35:48]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[3749].
+[22:35:49][BOT] m4x0r[0][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-132.962, -8.979, 91.902). Victim location: (-123.516, -5.133, 87.609).
+[22:35:51][BOT] Chops[0][Marines] killed Harvester with HeavyMachineGun. Attacker location: (-134.186, -8.979, 92.169). Victim location: (-134.382, -8.051, 79.883).
+[22:35:52][BOT] OwNzOr[0][Marines] began construction of Extractor[541].
+[22:35:55][BOT] McGlaspie[0][Aliens] killed [BOT] CoolCookieCook[0][Marines] with BiteLeap. Attacker location: (-182.839, -7.464, 66.620). Victim location: (-182.297, -7.883, 68.383).
+[22:35:59][BOT] MGS-3[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-194.191, -3.122, 29.564). Victim location: (-194.477, -7.055, 40.461).
+[22:36:03]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[2040].
+[22:36:15]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[3040].
+[22:36:17][BOT] Railo[0][Marines] killed Cyst with Shotgun. Attacker location: (-136.911, -7.992, 79.260). Victim location: (-134.226, -8.053, 78.458).
+[22:36:21][BOT] MGS-3[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-170.049, -8.677, 99.870). Victim location: (-168.125, -8.195, 100.266).
+[22:36:21][BOT] Chops[0][Marines] killed [BOT] WasabiOne[0][Aliens] with HeavyMachineGun. Attacker location: (-139.146, -8.979, 93.416). Victim location: (-142.039, -7.641, 92.836).
+[22:36:27][BOT] Chops[0][Marines] killed Cyst with HeavyMachineGun. Attacker location: (-142.351, -8.988, 92.211). Victim location: (-130.923, -8.989, 91.565).
+[22:36:30][BOT] MGS-3[0][Marines] killed [BOT] zaggynl[0][Aliens] with Shotgun. Attacker location: (-161.046, -6.348, 112.236). Victim location: (-163.609, -4.359, 116.508).
+[22:36:31][BOT] Chops[0][Marines] killed Cyst with HeavyMachineGun. Attacker location: (-134.566, -8.845, 90.575). Victim location: (-136.474, -8.054, 78.377).
+[22:36:33]hahahahahahahahahaha[903704407][Aliens] began construction of Whip[1204].
+[22:36:33][BOT] Chops[0][Marines] killed [BOT] Hanschuh[0][Aliens] with HeavyMachineGun. Attacker location: (-136.817, -8.979, 92.518). Victim location: (-134.094, -8.977, 92.031).
+[22:36:47][BOT] McGlaspie[0][Aliens] killed [BOT] CoolCookieCook[0][Marines] with BiteLeap. Attacker location: (-172.137, -6.825, 89.159). Victim location: (-170.969, -7.086, 91.172).
+[22:37:04][BOT] WasabiOne[0][Aliens] killed [BOT] Railo[0][Marines] with BiteLeap. Attacker location: (-141.556, -1.827, 10.502). Victim location: (-141.039, -3.023, 11.727).
+[22:37:08][BOT] zaggynl[0][Aliens] killed [BOT] Chops[0][Marines] with BiteLeap. Attacker location: (-172.148, -6.752, 103.583). Victim location: (-172.086, -8.180, 104.609).
+[22:37:10][BOT] MGS-3[0][Marines] killed [BOT] zaggynl[0][Aliens] with Shotgun. Attacker location: (-167.125, -6.354, 90.305). Victim location: (-169.945, -6.297, 91.125).
+[22:37:11][BOT] CoolCookieCook[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-129.920, -3.737, 11.596). Victim location: (-130.898, -2.352, 11.234).
+[22:37:14][BOT] WasabiOne[0][Aliens] killed [BOT] CoolCookieCook[0][Marines] with BiteLeap. Attacker location: (-137.142, -1.767, 14.088). Victim location: (-138.000, -3.023, 14.906).
+[22:37:20][BOT] Railo[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Rifle. Attacker location: (-139.990, -3.731, 2.626). Victim location: (-140.969, -1.977, 2.727).
+[22:37:23][BOT] Squeal Like a [0][Aliens] killed [BOT] Chops[0][Marines] with Gore. Attacker location: (-145.965, -2.958, -7.921). Victim location: (-144.813, -3.086, -8.516).
+[22:37:27][BOT] Squeal Like a [0][Aliens] killed [BOT] Railo[0][Marines] with Gore. Attacker location: (-143.626, -3.071, 11.739). Victim location: (-143.078, -3.023, 13.070).
+[22:37:34][BOT] CoolCookieCook[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Rifle. Attacker location: (-134.626, -4.029, 4.483). Victim location: (-125.992, -2.570, 12.391).
+[22:37:40][BOT] MGS-3[0][Marines] killed [BOT] zaggynl[0][Aliens] with Shotgun. Attacker location: (-158.086, -2.081, 35.765). Victim location: (-162.555, -0.367, 37.617).
+[22:38:06][BOT] CoolCookieCook[0][Marines] killed [BOT] McGlaspie[0][Aliens] with Shotgun. Attacker location: (-203.279, -2.657, 29.154). Victim location: (-193.273, -2.969, 29.234).
+[22:38:11][BOT] Squeal Like a [0][Aliens] killed [BOT] CoolCookieCook[0][Marines] with BiteLeap. Attacker location: (-203.724, -1.182, 28.954). Victim location: (-203.805, -2.461, 29.992).
+[22:38:12][BOT] Railo[0][Marines] killed [BOT] zaggynl[0][Aliens] with Rifle. Attacker location: (-186.830, -2.603, 30.092). Victim location: (-196.641, -2.961, 29.555).
+[22:38:12]hahahahahahahahahaha[903704407][Aliens] killed InfantryPortal with Whip. Attacker location: (-148.172, 15.188, -4.008). Victim location: (-146.665, -3.026, 3.000).
+[22:38:14][BOT] MGS-3[0][Marines] killed [BOT] Squeal Like a [0][Aliens] with Shotgun. Attacker location: (-185.862, -2.552, 29.436). Victim location: (-194.805, -1.930, 29.750).
+[22:38:14]hahahahahahahahahaha[903704407][Aliens] killed Observatory with DotMarker. Attacker location: (-148.172, 15.188, -4.008). Victim location: (-140.382, -3.026, -6.316).
+[22:38:19][BOT] OwNzOr[0][Marines] began construction of Observatory[785].
+[22:38:23][BOT] Chops[0][Marines] killed Whip with Rifle. Attacker location: (-145.177, -3.026, 15.458). Victim location: (-144.452, -3.036, 0.763).
+[22:38:26]hahahahahahahahahaha[903704407][Aliens] killed CommandStation with Whip. Attacker location: (-148.172, 15.188, -4.008). Victim location: (-143.669, -3.104, -3.025).
+[22:38:26][BOT] OwNzOr[0][Marines] stopped commanding the marine team.
+[22:38:26][BOT] OwNzOr[0][Marines] became the commander of the marine team.
+[22:38:26]Round ended with aliens winning. Build: 324. Map: ns2_kodiak. Round length: 21 minutes and 36 seconds. Marines start: Asteroid Tracking. Aliens start: Hangar Bay.
+[22:38:34]hahahahahahahahahaha[903704407][Aliens] stopped commanding the alien team.
+[22:38:34]Player [BOT] OwNzOr[0] joined team ready room.
+[22:38:34]Player [BOT] m4x0r[0] joined team ready room.
+[22:38:34]Player [BOT] Chops[0] joined team ready room.
+[22:38:34]Player [BOT] Railo[0] joined team ready room.
+[22:38:34]Player [BOT] MGS-3[0] joined team ready room.
+[22:38:34]Player [BOT] McGlaspie[0] joined team ready room.
+[22:38:34]Player [BOT] Hanschuh[0] joined team ready room.
+[22:38:34]Player [BOT] zaggynl[0] joined team ready room.
+[22:38:34]Player [BOT] Squeal Like a [0] joined team ready room.
+[22:38:34]Bot removed.
+[22:38:34]Bot removed.
+[22:38:34]Bot removed.
+[22:38:34]Bot removed.
+[22:38:34]Bot removed.
+[22:38:34]Bot removed.
+[22:38:34]Bot removed.
+[22:38:34]Bot removed.
+[22:38:34]Bot removed.
+[22:38:34]Bot removed.
+[22:38:34]Bot removed.
+[22:38:34]Player hahahahahahahahahaha[903704407] joined team ready room.
+[22:39:29]Client hahahahahahahahahaha[903704407][Ready Room] disconnected.
+[22:39:44]Shine started up successfully.
+[22:39:46][Badges] [Info] Setup badges successfully.
+
+
+
+
+
+[23:11:30]Client •••[307556350 - STEAM_0:0:153778175]<120.239.157.67> connected.
+[23:11:39]Client •••[307556350][Ready Room] disconnected.
+
+
+
+
+[23:37:15]Client Tecnomante[55019079 - STEAM_0:1:27509539]<189.146.151.147> connected.
+[23:37:21]Player Tecnomante[55019079] joined team marines.
+[23:37:22]Player NSPlayer[0] joined team aliens.
+[23:37:22][BOT] Mazza[0][Aliens] became the commander of the alien team.
+[23:37:22]Player NSPlayer[0] joined team aliens.
+[23:37:22]Player [BOT] Michael D.[0] joined team marines.
+[23:37:22][BOT] Michael D.[0][Marines] became the commander of the marine team.
+[23:37:22]Player [BOT] Steelcap[0] joined team marines.
+[23:37:22]Player [BOT] TychoCelchuuu[0] joined team aliens.
+[23:37:22]Player [BOT] Ooghi[0] joined team aliens.
+[23:37:22]Player [BOT] devildog[0] joined team marines.
+[23:37:22]Player [BOT] Flayra[0] joined team marines.
+[23:37:22]Player [BOT] remi.D[0] joined team aliens.
+[23:37:22]Player [BOT] WasabiOne[0] joined team aliens.
+[23:37:22]Player [BOT] Insane[0] joined team marines.
+[23:37:37][BOT] Michael D.[0][Marines] stopped commanding the marine team.
+[23:37:37][BOT] Mazza[0][Aliens] stopped commanding the alien team.
+[23:37:37][BOT] Michael D.[0][Marines] became the commander of the marine team.
+[23:37:37][BOT] Mazza[0][Aliens] became the commander of the alien team.
+[23:37:43]Round started. Build: 324. Map: ns2_eclipse.
+[23:37:43][BOT] Michael D.[0][Marines] began construction of Extractor[3068].
+[23:37:43][BOT] Michael D.[0][Marines] began construction of Armory[2437].
+[23:37:43][BOT] Michael D.[0][Marines] began construction of ArmsLab[2015].
+[23:37:48][BOT] Michael D.[0][Marines] began construction of Extractor[2602].
+[23:37:53][BOT] Michael D.[0][Marines] began construction of Extractor[125].
+[23:37:56][BOT] Michael D.[0][Marines] began construction of Observatory[3240].
+[23:38:03][BOT] Flayra[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Rifle. Attacker location: (-16.023, 40.701, 96.133). Victim location: (-14.664, 41.852, 91.484).
+[23:38:14][BOT] Ooghi[0][Aliens] killed [BOT] devildog[0][Marines] with BiteLeap. Attacker location: (-15.049, 40.933, 115.100). Victim location: (-14.258, 40.547, 115.945).
+[23:38:15][BOT] Mazza[0][Aliens] began construction of Harvester[1946].
+[23:38:15][BOT] Steelcap[0][Marines] killed [BOT] Ooghi[0][Aliens] with Rifle. Attacker location: (-16.440, 40.548, 118.990). Victim location: (-16.148, 41.664, 117.477).
+[23:38:18][BOT] remi.D[0][Aliens] killed [BOT] Steelcap[0][Marines] with BiteLeap. Attacker location: (-19.254, 40.864, 128.953). Victim location: (-19.961, 40.031, 129.766).
+[23:38:19]Tecnomante[55019079][Marines] killed [BOT] remi.D[0][Aliens] with Rifle. Attacker location: (-12.704, 40.701, 110.030). Victim location: (-19.221, 40.373, 127.747).
+[23:38:27]Tecnomante[55019079][Marines] killed [BOT] TychoCelchuuu[0][Aliens] with Rifle. Attacker location: (-30.688, 39.023, 116.303). Victim location: (-29.887, 40.171, 118.711).
+[23:38:33]Armory[2437] was recycled.
+[23:38:34][BOT] devildog[0][Marines] killed [BOT] Incredulous Dy[0][Aliens] with Rifle. Attacker location: (-34.137, 39.024, 117.002). Victim location: (-40.055, 40.914, 120.117).
+[23:38:37][BOT] Steelcap[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Rifle. Attacker location: (-18.548, 40.701, 105.012). Victim location: (-16.742, 42.125, 101.008).
+[23:38:47][BOT] Mazza[0][Aliens] began construction of Harvester[3545].
+[23:38:47][BOT] devildog[0][Marines] killed [BOT] Ooghi[0][Aliens] with Rifle. Attacker location: (-26.085, 40.625, 89.997). Victim location: (-27.852, 41.406, 88.000).
+[23:38:51][BOT] remi.D[0][Aliens] killed Tecnomante[55019079][Marines] with BiteLeap. Attacker location: (-30.554, 40.268, 85.898). Victim location: (-32.195, 39.023, 85.570).
+[23:38:54][BOT] devildog[0][Marines] killed [BOT] remi.D[0][Aliens] with Rifle. Attacker location: (-19.596, 40.625, 84.296). Victim location: (-24.672, 41.477, 82.156).
+[23:39:00][BOT] devildog[0][Marines] killed [BOT] TychoCelchuuu[0][Aliens] with Rifle. Attacker location: (-33.685, 39.024, 92.193). Victim location: (-37.922, 39.016, 98.539).
+[23:39:04][BOT] Mazza[0][Aliens] began construction of Spur[3904].
+[23:39:05][BOT] Insane[0][Marines] killed [BOT] Incredulous Dy[0][Aliens] with Rifle. Attacker location: (-44.588, 39.024, 102.119). Victim location: (-46.625, 40.898, 91.898).
+[23:39:10][BOT] Steelcap[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Rifle. Attacker location: (-46.516, 39.024, 106.400). Victim location: (-44.055, 40.266, 102.266).
+[23:39:14][BOT] Mazza[0][Aliens] began construction of Harvester[2740].
+[23:39:17][BOT] Insane[0][Marines] killed [BOT] Ooghi[0][Aliens] with Rifle. Attacker location: (-45.239, 39.024, 107.947). Victim location: (-46.602, 40.391, 99.773).
+[23:39:24][BOT] Steelcap[0][Marines] killed [BOT] remi.D[0][Aliens] with Rifle. Attacker location: (-46.880, 39.501, 106.876). Victim location: (-45.320, 41.273, 100.992).
+[23:39:29][BOT] Insane[0][Marines] killed [BOT] TychoCelchuuu[0][Aliens] with Rifle. Attacker location: (-46.267, 39.024, 105.974). Victim location: (-45.531, 40.172, 96.648).
+[23:39:35][BOT] Steelcap[0][Marines] killed [BOT] Incredulous Dy[0][Aliens] with Rifle. Attacker location: (-45.238, 39.024, 91.365). Victim location: (-48.938, 39.023, 87.500).
+[23:39:44][BOT] Steelcap[0][Marines] killed [BOT] WasabiOne[0][Aliens] with Rifle. Attacker location: (-46.510, 39.024, 90.245). Victim location: (-47.180, 40.398, 89.031).
+[23:39:45][BOT] Ooghi[0][Aliens] killed Tecnomante[55019079][Marines] with BiteLeap. Attacker location: (-76.542, 34.385, 72.642). Victim location: (-76.531, 32.469, 72.594).
+[23:39:45][BOT] Michael D.[0][Marines] began construction of Extractor[240].
+[23:39:51][BOT] Steelcap[0][Marines] killed [BOT] Ooghi[0][Aliens] with Rifle. Attacker location: (-53.775, 39.024, 74.971). Victim location: (-55.211, 39.023, 67.813).
+[23:39:53]Bot removed.
+[23:39:53]Bot removed.
+[23:39:53]Bot removed.
+[23:39:53]Bot removed.
+[23:39:53]Bot removed.
+[23:39:53]Bot removed.
+[23:39:53]Bot removed.
+[23:39:53]Bot removed.
+[23:39:53]Bot removed.
+[23:39:53]Bot removed.
+[23:39:53]Bot removed.
+[23:39:53]Client Tecnomante[55019079][Ready Room] disconnected.
+[23:39:54]Rounded ended in a draw. Build: 324. Map: ns2_eclipse. Round length: 2 minutes and 10 seconds. Marines start: Marine Start. Aliens start: Eclipse.
+[23:39:59]Armory[2437] was recycled.
+[23:41:11]Shine started up successfully.
+[23:41:14][Badges] [Info] Setup badges successfully.
+[23:41:32]Client LORDOFATE[44631548 - STEAM_0:0:22315774]<124.199.20.230> connected.
+[23:41:44]Player LORDOFATE[44631548] joined team marines.
+[23:41:45]Player NSPlayer[0] joined team aliens.
+[23:41:45][BOT] Zefram[0][Aliens] became the commander of the alien team.
+[23:41:45]Player NSPlayer[0] joined team aliens.
+[23:41:45]Player [BOT] OwNzOr[0] joined team marines.
+[23:41:45][BOT] OwNzOr[0][Marines] became the commander of the marine team.
+[23:41:45]Player [BOT] SteveRock[0] joined team marines.
+[23:41:45]Player [BOT] Relic25[0] joined team aliens.
+[23:41:45]Player [BOT] tommyd[0] joined team aliens.
+[23:41:45]Player [BOT] ScardyBob[0] joined team marines.
+[23:41:45]Player [BOT] WDI[0] joined team marines.
+[23:41:45]Player [BOT] Comprox[0] joined team aliens.
+[23:41:45]Player [BOT] vartija[0] joined team aliens.
+[23:41:45]Player [BOT] Asraniel[0] joined team marines.
+[23:42:00][BOT] OwNzOr[0][Marines] stopped commanding the marine team.
+[23:42:00][BOT] Zefram[0][Aliens] stopped commanding the alien team.
+[23:42:00][BOT] OwNzOr[0][Marines] became the commander of the marine team.
+[23:42:00][BOT] Zefram[0][Aliens] became the commander of the alien team.
+[23:42:06]Round started. Build: 324. Map: ns2_biodome.
+[23:42:06][BOT] OwNzOr[0][Marines] began construction of Extractor[3345].
+[23:42:06][BOT] OwNzOr[0][Marines] began construction of Armory[1356].
+[23:42:06][BOT] OwNzOr[0][Marines] began construction of ArmsLab[2162].
+[23:42:11][BOT] OwNzOr[0][Marines] began construction of Extractor[1414].
+[23:42:16][BOT] OwNzOr[0][Marines] began construction of Extractor[812].
+[23:42:27][BOT] OwNzOr[0][Marines] began construction of Extractor[1300].
+[23:42:28][BOT] OwNzOr[0][Marines] began construction of Observatory[1190].
+[23:42:37][BOT] Zefram[0][Aliens] began construction of Harvester[1487].
+[23:42:38][BOT] ScardyBob[0][Marines] killed [BOT] KungFuDiscoMon[0][Aliens] with Rifle. Attacker location: (8.569, -4.156, 40.674). Victim location: (10.125, -4.156, 38.508).
+[23:42:41][BOT] OwNzOr[0][Marines] began construction of Extractor[4069].
+[23:42:43][BOT] ScardyBob[0][Marines] killed [BOT] tommyd[0][Aliens] with Rifle. Attacker location: (-1.946, -3.089, 44.380). Victim location: (-0.953, -2.070, 44.055).
+[23:42:44][BOT] ScardyBob[0][Marines] killed [BOT] Relic25[0][Aliens] with Rifle. Attacker location: (-4.433, -3.089, 43.472). Victim location: (-0.305, -2.578, 46.055).
+[23:42:46][BOT] OwNzOr[0][Marines] began construction of Extractor[2146].
+[23:42:47][BOT] Comprox[0][Aliens] killed [BOT] ScardyBob[0][Marines] with BiteLeap. Attacker location: (-10.256, -1.872, 41.331). Victim location: (-11.242, -3.102, 40.969).
+[23:42:56]Armory[1356] was recycled.
+[23:43:11][BOT] SteveRock[0][Marines] killed [BOT] Comprox[0][Aliens] with Rifle. Attacker location: (39.951, -6.696, -31.521). Victim location: (39.336, -5.266, -30.656).
+[23:43:13][BOT] Zefram[0][Aliens] began construction of Harvester[3110].
+[23:43:17][BOT] Asraniel[0][Marines] killed [BOT] vartija[0][Aliens] with Rifle. Attacker location: (43.541, -6.698, -23.600). Victim location: (46.430, -7.273, -22.500).
+[23:43:22][BOT] Asraniel[0][Marines] killed [BOT] Relic25[0][Aliens] with Rifle. Attacker location: (45.906, -7.513, -22.971). Victim location: (49.109, -8.727, -19.602).
+[23:43:42][BOT] OwNzOr[0][Marines] began construction of Extractor[1155].
+[23:43:44][BOT] SteveRock[0][Marines] killed [BOT] Comprox[0][Aliens] with Rifle. Attacker location: (72.173, -8.321, 2.806). Victim location: (72.820, -6.695, 5.414).
+[23:43:46]LORDOFATE[44631548][Marines] killed Cyst with Axe. Attacker location: (38.102, -7.664, 1.047). Victim location: (37.961, -7.661, -0.264).
+[23:43:47][BOT] Asraniel[0][Marines] killed [BOT] vartija[0][Aliens] with Rifle. Attacker location: (71.860, -8.231, 5.365). Victim location: (72.727, -7.086, 10.563).
+[23:44:01][BOT] Zefram[0][Aliens] began construction of Shell[3518].
+[23:44:02][BOT] OwNzOr[0][Marines] began construction of Extractor[3159].
+[23:44:02][BOT] ScardyBob[0][Marines] killed [BOT] Relic25[0][Aliens] with Rifle. Attacker location: (47.099, -7.742, -4.940). Victim location: (49.008, -7.711, -10.078).
+[23:44:02][BOT] Asraniel[0][Marines] killed [BOT] KungFuDiscoMon[0][Aliens] with Rifle. Attacker location: (45.745, -7.712, -6.036). Victim location: (52.102, -7.813, -6.781).
+[23:44:07]Armory[1356] was recycled.
+[23:44:08][BOT] ScardyBob[0][Marines] killed [BOT] tommyd[0][Aliens] with Rifle. Attacker location: (49.694, -8.728, -23.572). Victim location: (43.852, -6.695, -22.859).
+[23:44:17][BOT] OwNzOr[0][Marines] began construction of Extractor[3979].
+[23:44:18][BOT] Comprox[0][Aliens] killed LORDOFATE[44631548][Marines] with BiteLeap. Attacker location: (68.408, -6.333, 1.437). Victim location: (67.188, -7.664, 2.117).
+[23:44:18][BOT] WDI[0][Marines] killed [BOT] Comprox[0][Aliens] with Rifle. Attacker location: (60.560, -7.712, 2.505). Victim location: (67.141, -7.664, 1.844).
+[23:44:20][BOT] ScardyBob[0][Marines] killed [BOT] vartija[0][Aliens] with Rifle. Attacker location: (56.846, -7.712, 1.188). Victim location: (64.711, -7.711, 3.313).
+[23:44:33][BOT] Relic25[0][Aliens] killed [BOT] WDI[0][Marines] with BiteLeap. Attacker location: (77.086, -5.124, 31.212). Victim location: (77.383, -4.953, 29.555).
+[23:44:34][BOT] ScardyBob[0][Marines] killed [BOT] Relic25[0][Aliens] with Rifle. Attacker location: (77.198, -4.460, 24.637). Victim location: (78.555, -2.867, 25.367).
+[23:44:35][BOT] ScardyBob[0][Marines] killed [BOT] KungFuDiscoMon[0][Aliens] with Rifle. Attacker location: (76.998, -4.460, 22.788). Victim location: (77.539, -4.461, 25.938).
+[23:44:41][BOT] tommyd[0][Aliens] killed [BOT] ScardyBob[0][Marines] with BiteLeap. Attacker location: (75.411, -4.505, 38.188). Victim location: (76.453, -6.086, 38.789).
+[23:44:53][BOT] Asraniel[0][Marines] killed [BOT] tommyd[0][Aliens] with Rifle. Attacker location: (46.129, -7.712, -6.636). Victim location: (50.805, -7.797, -8.094).
+[23:45:01][BOT] Zefram[0][Aliens] began construction of Shell[1643].
+[23:45:11][BOT] WDI[0][Marines] killed [BOT] vartija[0][Aliens] with Rifle. Attacker location: (11.346, -4.156, 40.932). Victim location: (14.672, -3.516, 41.789).
+[23:45:16]LORDOFATE[44631548][Marines] killed [BOT] Comprox[0][Aliens] with Rifle. Attacker location: (44.964, -6.591, -26.499). Victim location: (53.852, -8.563, -11.898).
+[23:45:20][BOT] WDI[0][Marines] killed [BOT] KungFuDiscoMon[0][Aliens] with Rifle. Attacker location: (7.038, -6.594, 20.579). Victim location: (8.828, -6.242, 17.352).
+[23:45:21][BOT] SteveRock[0][Marines] killed [BOT] Relic25[0][Aliens] with Rifle. Attacker location: (9.621, -6.594, 25.712). Victim location: (7.641, -6.273, 19.813).
+[23:45:31][BOT] SteveRock[0][Marines] killed [BOT] tommyd[0][Aliens] with Rifle. Attacker location: (31.123, -5.273, 0.405). Victim location: (36.430, -4.758, 2.297).
+[23:45:45]LORDOFATE[44631548][Marines] killed [BOT] Comprox[0][Aliens] with Rifle. Attacker location: (75.539, -9.337, 14.610). Victim location: (76.636, -8.251, 16.011).
+[23:45:47]ArmsLab[2162] was recycled.
+[23:45:47]Armory[1356] was recycled.
+[23:45:51]LORDOFATE[44631548][Marines] killed [BOT] vartija[0][Aliens] with Rifle. Attacker location: (83.392, -9.413, 17.270). Victim location: (73.646, -8.661, 16.610).
+[23:45:53][BOT] Relic25[0][Aliens] killed LORDOFATE[44631548][Marines] with BiteLeap. Attacker location: (81.580, -8.008, 15.382). Victim location: (80.148, -8.445, 15.719).
+[23:45:56][BOT] SteveRock[0][Marines] killed [BOT] Relic25[0][Aliens] with Rifle. Attacker location: (69.125, -9.246, 16.337). Victim location: (69.445, -6.969, 16.398).
+[23:46:00][BOT] KungFuDiscoMon[0][Aliens] killed [BOT] WDI[0][Marines] with BiteLeap. Attacker location: (56.692, -7.215, 1.909). Victim location: (57.094, -7.711, 3.859).
+[23:46:25][BOT] ScardyBob[0][Marines] killed [BOT] KungFuDiscoMon[0][Aliens] with Rifle. Attacker location: (17.975, -6.492, 25.796). Victim location: (17.281, -4.266, 33.313).
+[23:46:40][BOT] WDI[0][Marines] killed [BOT] Comprox[0][Aliens] with Shotgun. Attacker location: (21.047, -3.089, 44.393). Victim location: (17.898, -3.867, 37.734).
+[23:46:48]ArmsLab[2162] was recycled.
+[23:46:49][BOT] WDI[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (5.175, -3.039, 40.059). Victim location: (-5.500, -3.102, 45.508).
+[23:46:49][BOT] Zefram[0][Aliens] began construction of Shell[3466].
+[23:46:56][BOT] WDI[0][Marines] killed [BOT] vartija[0][Aliens] with Shotgun. Attacker location: (11.057, -4.054, 45.607). Victim location: (13.281, -4.156, 36.930).
+[23:47:06][BOT] SteveRock[0][Marines] killed [BOT] KungFuDiscoMon[0][Aliens] with Shotgun. Attacker location: (8.882, -6.543, 5.697). Victim location: (14.188, -4.977, 7.547).
+[23:47:21][BOT] Relic25[0][Aliens] killed [BOT] SteveRock[0][Marines] with BiteLeap. Attacker location: (67.069, -6.384, 2.047). Victim location: (65.992, -7.711, 2.570).
+[23:47:23][BOT] Asraniel[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (56.031, -8.728, -11.931). Victim location: (56.031, -7.188, -6.414).
+[23:47:27]LORDOFATE[44631548][Marines] killed [BOT] Comprox[0][Aliens] with Mine. Attacker location: (-34.516, -0.430, -0.922). Victim location: (22.234, -4.289, -34.617).
+[23:47:47]Armory[1356] was recycled.
+[23:47:49][BOT] SteveRock[0][Marines] killed [BOT] vartija[0][Aliens] with Rifle. Attacker location: (3.390, -3.044, 53.363). Victim location: (12.195, -4.117, 47.523).
+[23:48:10][BOT] ScardyBob[0][Marines] killed Cyst with Shotgun. Attacker location: (57.981, -6.492, 91.624). Victim location: (65.422, -5.591, 93.491).
+[23:48:16][BOT] SteveRock[0][Marines] killed [BOT] tommyd[0][Aliens] with Rifle. Attacker location: (56.617, -7.712, 2.273). Victim location: (68.953, -7.023, 4.547).
+[23:48:19]Armory[1356] was recycled.
+[23:48:19][BOT] WDI[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (-9.942, -3.851, -41.246). Victim location: (-6.789, -3.617, -43.617).
+[23:48:24][BOT] WDI[0][Marines] killed [BOT] Comprox[0][Aliens] with Shotgun. Attacker location: (-11.574, -3.860, -42.113). Victim location: (-11.750, -1.023, -41.992).
+[23:48:32]ArmsLab[2162] was recycled.
+[23:48:34][BOT] WDI[0][Marines] killed [BOT] vartija[0][Aliens] with Shotgun. Attacker location: (24.818, -5.680, -35.217). Victim location: (29.563, -4.133, -45.914).
+[23:48:51][BOT] WDI[0][Marines] killed [BOT] tommyd[0][Aliens] with Shotgun. Attacker location: (64.289, -7.331, -11.706). Victim location: (66.117, -6.422, -7.133).
+[23:48:53][BOT] ScardyBob[0][Marines] killed Cyst with Shotgun. Attacker location: (49.859, -3.242, 98.591). Victim location: (48.260, -3.241, 91.527).
+[23:48:55][BOT] WDI[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (59.960, -7.728, -1.212). Victim location: (62.133, -6.422, 3.008).
+[23:49:00][BOT] WDI[0][Marines] killed [BOT] Comprox[0][Aliens] with Shotgun. Attacker location: (56.705, -7.748, -0.320). Victim location: (62.648, -6.891, 1.539).
+[23:49:11][BOT] OwNzOr[0][Marines] began construction of PrototypeLab[3280].
+[23:49:25][BOT] SteveRock[0][Marines] killed [BOT] vartija[0][Aliens] with Shotgun. Attacker location: (-3.319, -3.851, -43.407). Victim location: (-0.953, -3.852, -40.086).
+[23:49:27][BOT] Asraniel[0][Marines] killed [BOT] tommyd[0][Aliens] with Shotgun. Attacker location: (40.705, -7.661, -5.757). Victim location: (46.938, -6.414, -7.742).
+[23:49:49][BOT] Relic25[0][Aliens] killed PowerPoint with BiteLeap. Attacker location: (1.736, -3.869, -42.785). Victim location: (1.829, -2.134, -42.926).
+[23:49:53][BOT] WDI[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (-25.246, -1.590, -49.750). Victim location: (-21.102, -1.617, -50.609).
+[23:50:03]ArmsLab[2162] was recycled.
+[23:50:20][BOT] Zefram[0][Aliens] began construction of Hive[3802].
+[23:50:24][BOT] Asraniel[0][Marines] killed [BOT] Comprox[0][Aliens] with Shotgun. Attacker location: (43.157, -6.696, -24.234). Victim location: (39.594, -6.695, -33.367).
+[23:50:30][BOT] vartija[0][Aliens] killed PowerPoint with BiteLeap. Attacker location: (58.335, -2.054, -94.677). Victim location: (59.077, -0.610, -94.488).
+[23:50:41][BOT] SteveRock[0][Marines] killed [BOT] vartija[0][Aliens] with Shotgun. Attacker location: (36.060, -1.972, -89.230). Victim location: (34.578, 0.781, -98.008).
+[23:51:01]PrototypeLab[3280] was recycled.
+[23:51:10][BOT] ScardyBob[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (48.267, -10.861, 20.002). Victim location: (52.781, -10.758, 23.508).
+[23:51:29][BOT] Comprox[0][Aliens] killed Extractor with BiteLeap. Attacker location: (45.428, -0.147, -102.507). Victim location: (45.346, -0.102, -103.937).
+[23:51:34][BOT] OwNzOr[0][Marines] began construction of Extractor[779].
+[23:51:38][BOT] SteveRock[0][Marines] killed [BOT] tommyd[0][Aliens] with Shotgun. Attacker location: (72.053, -7.673, 49.479). Victim location: (71.750, -6.406, 50.563).
+[23:51:43][BOT] Asraniel[0][Marines] killed [BOT] Comprox[0][Aliens] with Shotgun. Attacker location: (15.491, -5.680, -35.007). Victim location: (20.781, -5.680, -33.227).
+[23:51:52][BOT] OwNzOr[0][Marines] began construction of Extractor[1061].
+[23:51:57][BOT] OwNzOr[0][Marines] began construction of Extractor[3420].
+[23:52:05][BOT] vartija[0][Aliens] killed Extractor with BiteLeap. Attacker location: (47.409, -3.249, 92.707). Victim location: (47.422, -3.251, 94.107).
+[23:52:06][BOT] Relic25[0][Aliens] killed [BOT] SteveRock[0][Marines] with BiteLeap. Attacker location: (26.518, -4.413, -38.745). Victim location: (26.648, -5.781, -37.281).
+[23:52:10][BOT] OwNzOr[0][Marines] began construction of Extractor[3180].
+[23:52:14][BOT] Asraniel[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (56.507, -7.712, -8.521). Victim location: (50.484, -7.406, -15.680).
+[23:52:15]ArmsLab[2162] was recycled.
+[23:52:25]Bot removed.
+[23:52:25]Bot removed.
+[23:52:25][BOT] tommyd[0][Aliens] killed [BOT] WDI[0][Marines] with LerkBite. Attacker location: (82.680, -9.337, 22.403). Victim location: (76.063, -9.414, 16.625).
+[23:52:25]Bot removed.
+[23:52:25]Bot removed.
+[23:52:25][BOT] Zefram[0][Aliens] began construction of Harvester[250].
+[23:52:25]Bot removed.
+[23:52:28]LORDOFATE[44631548][Marines] became the commander of the marine team.
+[23:52:31]PrototypeLab[3280] was recycled.
+[23:52:39]LORDOFATE[44631548][Marines] stopped commanding the marine team.
+[23:52:39]Player NSPlayer[0] joined team marines.
+[23:52:39][BOT] Brackhar[0][Marines] became the commander of the marine team.
+[23:52:39]Player NSPlayer[0] joined team marines.
+[23:52:39]Player NSPlayer[0] joined team marines.
+[23:52:39]Player NSPlayer[0] joined team marines.
+[23:52:39]Player NSPlayer[0] joined team marines.
+[23:53:05][BOT] Comprox[0][Aliens] killed Extractor with BiteLeap. Attacker location: (38.207, -7.682, -1.232). Victim location: (38.608, -7.671, -2.642).
+[23:53:10][BOT] Darrin F.[0][Marines] killed [BOT] tommyd[0][Aliens] with Rifle. Attacker location: (-1.188, -3.090, 42.800). Victim location: (9.258, -3.305, 38.961).
+[23:53:11][BOT] Darrin F.[0][Marines] killed [BOT] vartija[0][Aliens] with Rifle. Attacker location: (-0.543, -3.089, 42.495). Victim location: (13.023, -4.016, 36.078).
+[23:53:18]LORDOFATE[44631548][Marines] killed [BOT] Relic25[0][Aliens] with Rifle. Attacker location: (20.298, -1.933, 40.615). Victim location: (18.510, -2.735, 39.303).
+[23:53:18][BOT] Comprox[0][Aliens] killed LORDOFATE[44631548][Marines] with BiteLeap. Attacker location: (18.055, -2.217, 40.111). Victim location: (17.609, -2.891, 42.070).
+[23:53:21][BOT] Virsoul[0][Marines] killed [BOT] Comprox[0][Aliens] with Rifle. Attacker location: (-0.593, -3.089, 42.600). Victim location: (12.977, -4.031, 35.977).
+[23:53:56][BOT] Comprox[0][Aliens] killed PowerPoint with BiteLeap. Attacker location: (13.003, -4.026, 35.965). Victim location: (12.598, -2.438, 35.814).
+[23:54:00][BOT] Darrin F.[0][Marines] killed [BOT] tommyd[0][Aliens] with Shotgun. Attacker location: (40.452, -6.531, -39.492). Victim location: (32.953, -5.680, -43.094).
+[23:54:02][BOT] Darrin F.[0][Marines] killed [BOT] vartija[0][Aliens] with Shotgun. Attacker location: (32.379, -5.680, -43.243). Victim location: (28.297, -5.781, -45.766).
+[23:54:05][BOT] McGlaspie[0][Marines] killed [BOT] Relic25[0][Aliens] with HeavyMachineGun. Attacker location: (49.090, -8.803, -27.212). Victim location: (49.570, -8.727, -23.188).
+[23:54:08][BOT] Darrin F.[0][Marines] killed [BOT] Comprox[0][Aliens] with Shotgun. Attacker location: (48.333, -8.728, -21.207). Victim location: (50.242, -6.336, -13.406).
+[23:54:16]ArmsLab[2162] was recycled.
+[23:54:28][BOT] Ironhorse[0][Marines] killed [BOT] tommyd[0][Aliens] with Shotgun. Attacker location: (77.167, -6.086, 42.835). Victim location: (82.297, -5.055, 44.063).
+[23:54:32][BOT] Darrin F.[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (78.148, -6.086, 43.492). Victim location: (83.094, -5.609, 45.031).
+[23:54:33][BOT] McGlaspie[0][Marines] killed [BOT] Comprox[0][Aliens] with HeavyMachineGun. Attacker location: (75.382, -6.086, 45.022). Victim location: (82.297, -5.828, 44.086).
+[23:54:44][BOT] McGlaspie[0][Marines] killed Harvester with HeavyMachineGun. Attacker location: (74.723, -6.093, 42.672). Victim location: (80.264, -7.722, 52.527).
+[23:54:49][BOT] Zefram[0][Aliens] began construction of Harvester[3828].
+[23:54:56][BOT] McGlaspie[0][Marines] killed [BOT] Comprox[0][Aliens] with HeavyMachineGun. Attacker location: (99.636, -5.273, 40.793). Victim location: (99.875, -3.938, 36.133).
+[23:54:56][BOT] Darrin F.[0][Marines] killed [BOT] tommyd[0][Aliens] with Shotgun. Attacker location: (82.610, -6.899, 31.135). Victim location: (87.977, -4.078, 39.109).
+[23:55:01][BOT] McGlaspie[0][Marines] killed [BOT] Relic25[0][Aliens] with HeavyMachineGun. Attacker location: (97.697, -5.273, 38.709). Victim location: (101.031, -4.813, 42.398).
+[23:55:19][BOT] McGlaspie[0][Marines] killed [BOT] Relic25[0][Aliens] with HeavyMachineGun. Attacker location: (126.299, -2.022, 17.757). Victim location: (127.719, -1.711, 14.086).
+[23:55:29][BOT] Virsoul[0][Marines] killed [BOT] tommyd[0][Aliens] with HeavyMachineGun. Attacker location: (58.715, -7.721, 2.134). Victim location: (47.273, -7.719, 4.039).
+[23:55:37][BOT] Ironhorse[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (111.809, -3.343, 26.624). Victim location: (113.852, -3.000, 20.867).
+[23:55:50]LORDOFATE[44631548][Marines] killed Cyst with Welder. Attacker location: (86.652, -6.095, 44.402). Victim location: (87.737, -6.096, 45.160).
+[23:55:55]LORDOFATE[44631548][Marines] killed [BOT] tommyd[0][Aliens] with HeavyMachineGun. Attacker location: (100.617, -5.273, 45.308). Victim location: (100.538, -3.778, 46.230).
+[23:56:00][BOT] Darrin F.[0][Marines] killed [BOT] Relic25[0][Aliens] with Shotgun. Attacker location: (105.567, -4.257, 23.667). Victim location: (110.258, -3.219, 22.289).
+[23:56:01]LORDOFATE[44631548][Marines] killed Cyst with Welder. Attacker location: (100.050, -5.282, 38.502). Victim location: (101.347, -5.283, 37.548).
+[23:56:07]LORDOFATE[44631548][Marines] killed Cyst with HeavyMachineGun. Attacker location: (109.403, -3.599, 26.686). Victim location: (114.114, -3.251, 25.014).

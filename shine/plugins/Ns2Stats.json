@@ -1,0 +1,16 @@
+{
+    "AwardMsgColour": [ 255, 215, 0 ],
+    "AwardMsgTime": 20,
+    "Awards": true,
+    "Competitive": false,
+    "DisableSponitor": false,
+    "Lastroundlink": "",
+    "LogChat": false,
+    "SendMapData": false,
+    "ServerKey": "",
+    "ShowNumAwards": 4,
+    "StatusReport": false,
+    "Tags": [],
+    "WebsiteUrl": "http://ns2stats.com",
+    "__Version": "shine"
+}
