@@ -12,8 +12,7 @@
         }
     },
     "Users": {
-        "9002712": {
-            "Group": "admin_group"
-        }
+        "9002712":   {"Group": "admin_group"},
+        "312374246": {"Group": "admin_group"}
     }
 }
