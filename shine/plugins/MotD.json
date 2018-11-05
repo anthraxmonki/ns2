@@ -1,11 +1,13 @@
 {
-    "Accepted": [],
+    "Accepted": {
+        "90934666": true
+    },
     "Delay": 5,
     "MessageColour": [ 45, 236, 64 ],
     "MessageText": [
         "Welcome to the [BGT] Big_Goth_Tiddies server West!",
         "Glad you're here! Please be pleasant to your fellow rookies",
-	"Add us to your favorites, help seed, stay tuned, and stay BIG! =)"
+        "Add us to your favorites, help seed, stay tuned, and stay BIG! =)"
     ],
     "Mode": 2,
     "URL": "storage.googleapis.com/ns2.krizenesky.com/bgt_motd.html",
