@@ -10,13 +10,13 @@
     "IgnoreCommanders": true,
     "IgnoreSpectators": false,
     "LogLevel": "Info",
-    "MinPlayers": 10,
+    "MinPlayers": 5,
     "NotifyOnVote": true,
-    "PercentNeeded": 0.75,
+    "PercentNeeded": 0.65,
     "ReconnectLogTime": 0,
     "StandardDeviationTolerance": 40,
     "StatsRecording": {
-        "MinMinutesOnTeam": 5,
+        "MinMinutesOnTeam": 10,
         "RookieBoundary": 7500,
         "RookieStat": "Score"
     },
