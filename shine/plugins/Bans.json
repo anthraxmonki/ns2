@@ -1,6 +1,15 @@
 {
+    "AlwaysBlockFamilySharedPlayers": false,
     "BanSharerOnSharedBan": false,
     "Banned": {
+        "38629159": {
+            "BannedBy": "ADMIN",
+            "BannerID": 0,
+            "Duration": 0,
+            "Name": "Fetbet",
+            "Reason": "You're a faggot, faggot. Waa ='(",
+            "UnbanTime": 0
+        },
         "887878488": {
             "BannedBy": "<unknown>",
             "BannerID": 0,
@@ -21,5 +30,5 @@
     "MaxSubmitRetries": 3,
     "SubmitTimeout": 5,
     "VanillaConfigUpToDate": true,
-    "__Version": "1.5"
+    "__Version": "1.6"
 }

@@ -4,6 +4,7 @@
     "AllTalkPreGame": false,
     "AllTalkSpectator": false,
     "CommanderBotVoteDelayInSeconds": 300,
+    "CustomVotePrefix": "POLL: ",
     "DisableLuaRun": false,
     "EjectVotesNeeded": [
         {
@@ -29,5 +30,5 @@
             "ConsiderAFKPlayersInVotes": true
         }
     },
-    "__Version": "1.5"
+    "__Version": "1.6"
 }

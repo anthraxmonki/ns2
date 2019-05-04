@@ -10,7 +10,6 @@
     },
     "auto_vote_add_commander_bots":true,
     "consistency_enabled":true,
-    "debug_bot_manager":false,
     "dyndns":"",
     "enabledyndns":false,
     "end_round_on_team_unbalance":0.4,
@@ -19,7 +18,7 @@
     "filler_bots":14,
     "force_even_teams_on_join":true,
     "hiveranking":true,
-    "jit_maxmcode":42000,
+    "jit_maxmcode":40000,
     "jit_maxtrace":25000,
     "max_http_requests":8,
     "mod_backup_before_steam":false,
@@ -28,8 +27,8 @@
     "quickplay_ready":true,
     "rookie_only":false,
     "rookie_only_bots":14,
-    "season":"Fall",
-    "season_month":10,
+    "season":"winter",
+    "season_month":1,
     "use_own_consistency_config":false,
     "voting":{
       "voteaddcommanderbots":true,
@@ -42,4 +41,4 @@
     }
   },
   "tags":["fast","sexy","big","fun","dedicated","discord","rookie","BGT"]
-}
+}2

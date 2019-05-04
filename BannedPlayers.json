@@ -1,9 +1,20 @@
-[{
-    "bannerid":0,
-    "reason":"bet your skill doesn't carry over mcsalot; bitch, you are a first time commander's 1st win. You are banned for poor sportsmanship. -ADMIN/mcsalot",
-    "duration":0,
-    "id":887878488,
-    "time":0,
-    "name":"James",
-    "bannedby":"<unknown>"
-  }]
+[
+    {
+        "bannedby": "<unknown>",
+        "bannerid": 0,
+        "duration": 0,
+        "id": 887878488,
+        "name": "James",
+        "reason": "bet your skill doesn't carry over mcsalot; bitch, you are a first time commander's 1st win. You are banned for poor sportsmanship. -ADMIN/mcsalot",
+        "time": 0
+    },
+    {
+        "bannedby": "ADMIN",
+        "bannerid": 0,
+        "duration": 0,
+        "id": 38629159,
+        "name": "Fetbet",
+        "reason": "You're a faggot, faggot. Waa ='(",
+        "time": 0
+    }
+]

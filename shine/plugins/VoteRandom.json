@@ -1,9 +1,9 @@
 {
     "AlwaysEnabled": false,
     "ApplyToBots": false,
-    "AverageValueTolerance": 0,
     "BalanceMode": "HIVE",
-    "BlockAfterTime": 2,
+    "BlockAfterRoundTimeInMinutes": 2,
+    "BlockUntilSecondsIntoMap": 0,
     "DisplayStandardDeviations": false,
     "FallbackMode": "KDR",
     "HighlightTeamSwaps": false,
@@ -13,16 +13,21 @@
     "MinPlayers": 5,
     "NotifyOnVote": true,
     "PercentNeeded": 0.65,
-    "ReconnectLogTime": 0,
-    "StandardDeviationTolerance": 40,
+    "ReconnectLogTimeInSeconds": 0,
+    "RemoveAFKPlayersFromTeams": true,
     "StatsRecording": {
         "MinMinutesOnTeam": 10,
         "RookieBoundary": 7500,
         "RookieStat": "Score"
     },
     "TeamPreferences": {
+        "CostWeighting": "NONE",
+        "FriendGroupInviteCooldownInSeconds": 15,
+        "FriendGroupInviteDurationInSeconds": 15,
+        "MaxFriendGroupSize": 4,
         "MaxHistoryRounds": 5,
-        "MinRoundLengthToRecordInSeconds": 300
+        "MinRoundLengthToRecordInSeconds": 300,
+        "PlayWithFriendsWeighting": "MEDIUM"
     },
     "UseLocalFileStats": false,
     "VoteConstraints": {
@@ -49,6 +54,6 @@
         "AFKTimeInSeconds": 60,
         "ConsiderAFKPlayersInVotes": true
     },
-    "VoteTimeout": 60,
-    "__Version": "2.3"
+    "VoteTimeoutInSeconds": 60,
+    "__Version": "2.7"
 }
